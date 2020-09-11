@@ -1,43 +1,39 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://chloepoulterdesign.github.io/portfolio/',
   pathPrefix: '/portfolio',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Chloe Poulter - Portfolio',
+  subtitle: 'Portfolio for Chloe Poulter, Designer',
+  copyright: 'Site by lumen.netlify.com',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 6,
+  googleAnalyticsId: 'UA-176580974-1',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Work',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Resume',
+      path: '/pages/resume'
     }
   ],
   author: {
     name: 'Chloe Poulter',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Designer at IBM Cloud Pak for Integration & Climate Reality Leader based in Basingstoke, UK',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'chloe@poulters.net',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'chloe-poulter/',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',

@@ -23,7 +23,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-post-template-js-220e1b277057d838dc6d.js
+/component---src-templates-post-template-js-10fd58896f4080f66288.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-page-template-js-d96994f4fd88e25e2895.js
   Cache-Control: public, max-age=31536000, immutable
@@ -33,44 +33,44 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-index-template-js-1eeb1d76b800f8e2c5e7.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-e74c335962e14eaa9c05.js
+/webpack-runtime-b07e4814b589e8a29252.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-acc06bf067a5be254929.js
   Cache-Control: public, max-age=31536000, immutable
 /532a2f07-0ad879e15da7c2514814.js
   Cache-Control: public, max-age=31536000, immutable
-/app-d05aab87787e044bf4ad.js
+/app-b07d220e75d0c63b82cd.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
 /portfolio/offline-plugin-app-shell-fallback/
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/component---cache-caches-gatsby-plugin-offline-app-shell-js-78167c4fde7507dfeaa5.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/404
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-not-found-template-js-ac3827766eca47f69dbc.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/tags
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-043c9e98385916b208d9.js>; rel=preload; as=script
@@ -78,141 +78,118 @@
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/categories
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-043c9e98385916b208d9.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-categories-list-template-js-c284e1532732377ecf23.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/posts/perfecting-the-art-of-perfection
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+/portfolio/posts/install
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
-  Link: </portfolio/component---src-templates-post-template-js-220e1b277057d838dc6d.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-post-template-js-10fd58896f4080f66288.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/posts/the-origins-of-social-stationery-lettering
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/page-data/posts/install/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/posts/covid-19-challenge
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
-  Link: </portfolio/component---src-templates-post-template-js-220e1b277057d838dc6d.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-post-template-js-10fd58896f4080f66288.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/posts/the-birth-of-movable-type
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/page-data/posts/covid-19-challenge/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/posts/sprinting-on-georeplication
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
-  Link: </portfolio/component---src-templates-post-template-js-220e1b277057d838dc6d.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-post-template-js-10fd58896f4080f66288.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/posts/the-birth-of-movable-type/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/posts/a-brief-history-of-typography
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/page-data/posts/sprinting-on-georeplication/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/pages/resume/
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
-  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
-  Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
-  Link: </portfolio/component---src-templates-post-template-js-220e1b277057d838dc6d.js>; rel=preload; as=script
-  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/pages/contacts/
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
-  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
-  Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-page-template-js-d96994f4fd88e25e2895.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/pages/about/
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/page-data/pages/resume/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/posts/sprinting-on-hello-world
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
-  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
-  Link: </portfolio/component---src-templates-page-template-js-d96994f4fd88e25e2895.js>; rel=preload; as=script
-  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/posts/humane-typography-in-the-digital-age
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
-  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
-  Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
-  Link: </portfolio/component---src-templates-post-template-js-220e1b277057d838dc6d.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-post-template-js-10fd58896f4080f66288.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/posts/humane-typography-in-the-digital-age/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/posts/sprinting-on-hello-world/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/tag/design
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/tag/design/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/tag/gatsby
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+/portfolio/tag/design-sprints
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/tag/gatsby/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/tag/handwriting
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/page-data/tag/design-sprints/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/tag/design-thinking
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/tag/handwriting/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/tag/design-thinking/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/tag/helvetica
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
@@ -220,35 +197,23 @@
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/tag/helvetica/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/tag/history-of-typography
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/tag/history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/tag/learning-to-write
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
-  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
-  Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
-  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
-  Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
-  Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
-  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/tag/learning-to-write/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/tag/linotype
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
@@ -256,95 +221,83 @@
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/tag/linotype/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/tag/monotype
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/tag/monotype/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/tag/open-source
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+/portfolio/tag/research
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/tag/open-source/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/tag/typography
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/page-data/tag/research/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/tag/ux-design
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/tag/typography/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/tag/web-development
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/page-data/tag/ux-design/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/category/ibm-cloud-pak-for-integration
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
-  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
-  Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
-  Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
-  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/tag/web-development/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/category/design-culture
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
-  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
-  Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-category-template-js-935c55d5618811c2c591.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/category/design-culture/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/category/design-inspiration
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/page-data/category/ibm-cloud-pak-for-integration/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/category/ibm-event-streams
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-category-template-js-935c55d5618811c2c591.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/category/design-inspiration/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/category/typography
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/page-data/category/ibm-event-streams/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/category/workshops
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-category-template-js-935c55d5618811c2c591.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/category/typography/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/category/workshops/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
@@ -352,11 +305,11 @@
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/404.html
-  Link: </portfolio/webpack-runtime-e74c335962e14eaa9c05.js>; rel=preload; as=script
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
   Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
-  Link: </portfolio/app-d05aab87787e044bf4ad.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-not-found-template-js-ac3827766eca47f69dbc.js>; rel=preload; as=script

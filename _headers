@@ -89,6 +89,30 @@
   Link: </portfolio/component---src-templates-categories-list-template-js-c284e1532732377ecf23.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/posts/content-driven-design-talk
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
+  Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
+  Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-post-template-js-10fd58896f4080f66288.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/posts/content-driven-design-talk/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/posts/usability-for-developers
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
+  Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
+  Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-post-template-js-10fd58896f4080f66288.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/posts/usability-for-developers/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/posts/sprinting-on-hello-world
   Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
@@ -101,7 +125,7 @@
   Link: </portfolio/component---src-templates-post-template-js-10fd58896f4080f66288.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/posts/sprinting-on-hello-world/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/posts/sprinting-on-georeplication
+/portfolio/posts/southampton-solent
   Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
@@ -112,8 +136,8 @@
   Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
   Link: </portfolio/component---src-templates-post-template-js-10fd58896f4080f66288.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/posts/sprinting-on-georeplication/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/posts/covid-19-challenge
+  Link: </portfolio/page-data/posts/southampton-solent/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/pages/resume/
   Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
@@ -121,10 +145,9 @@
   Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
-  Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
-  Link: </portfolio/component---src-templates-post-template-js-10fd58896f4080f66288.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-page-template-js-d96994f4fd88e25e2895.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/posts/covid-19-challenge/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/pages/resume/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/posts/install
   Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
@@ -137,7 +160,7 @@
   Link: </portfolio/component---src-templates-post-template-js-10fd58896f4080f66288.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/posts/install/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio/pages/resume/
+/portfolio/posts/covid-19-challenge
   Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
@@ -145,9 +168,22 @@
   Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
   Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
-  Link: </portfolio/component---src-templates-page-template-js-d96994f4fd88e25e2895.js>; rel=preload; as=script
+  Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-post-template-js-10fd58896f4080f66288.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio/page-data/pages/resume/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/posts/covid-19-challenge/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/posts/sprinting-on-georeplication
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
+  Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
+  Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-post-template-js-10fd58896f4080f66288.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/posts/sprinting-on-georeplication/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/tag/design
   Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
@@ -244,6 +280,30 @@
   Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/tag/research/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/tag/talk
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
+  Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
+  Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/tag/talk/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/tag/ux
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
+  Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
+  Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/tag/ux/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/tag/ux-design
   Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
@@ -256,6 +316,18 @@
   Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/tag/ux-design/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/tag/workshops
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
+  Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
+  Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-tag-template-js-3d297db9838f2be4addc.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/tag/workshops/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/category/ibm-cloud-pak-for-integration
   Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
@@ -304,6 +376,18 @@
   Link: </portfolio/component---src-templates-index-template-js-1eeb1d76b800f8e2c5e7.js>; rel=preload; as=script
   Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/page/1
+  Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/framework-acc06bf067a5be254929.js>; rel=preload; as=script
+  Link: </portfolio/532a2f07-0ad879e15da7c2514814.js>; rel=preload; as=script
+  Link: </portfolio/app-b07d220e75d0c63b82cd.js>; rel=preload; as=script
+  Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </portfolio/cd95ea5cbd2c605f26db819f07999610c9ff4310-10791c46efc983490b73.js>; rel=preload; as=script
+  Link: </portfolio/643651a62fb35a9bb4f20061cb1f214a352d7976-921c08de707572e0b904.js>; rel=preload; as=script
+  Link: </portfolio/component---src-templates-index-template-js-1eeb1d76b800f8e2c5e7.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/page/1/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio/404.html
   Link: </portfolio/webpack-runtime-b07e4814b589e8a29252.js>; rel=preload; as=script
   Link: </portfolio/styles-083a06cb5740baaf347d.js>; rel=preload; as=script

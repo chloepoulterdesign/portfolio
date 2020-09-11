@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
+  pathPrefix: '/portfolio',
   title: 'Blog by John Doe',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Chloe Poulter',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {

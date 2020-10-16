@@ -1,4 +1,313 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Chloe Poulter - Portfolio]]></title><description><![CDATA[Portfolio for Chloe Poulter, Designer]]></description><link>https://chloepoulterdesign.github.io/portfolio/</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 11 Sep 2020 17:00:25 GMT</lastBuildDate><item><title><![CDATA[Installing Integration technologies using operators in the Cloud Pak for Integration]]></title><description><![CDATA[We developed Kubernetes-native installation of Integration technologies for Integration administrators and practitioners for the June 2020 release and evaluated its effectiveness in task-based user testing.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/install</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/install</guid><pubDate>Wed, 01 Jul 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h2 id=&quot;what-is-the-ibm-cloud-pak-for-integration&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#what-is-the-ibm-cloud-pak-for-integration&quot; aria-label=&quot;what is the ibm cloud pak for integration permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is the IBM Cloud Pak for Integration?&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Chloe Poulter - Portfolio]]></title><description><![CDATA[Portfolio for Chloe Poulter, Designer]]></description><link>https://chloepoulterdesign.github.io/portfolio/</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 16 Oct 2020 13:59:10 GMT</lastBuildDate><item><title><![CDATA[UX patterns for IBM Design consistency]]></title><description><![CDATA[IBM's unified, open source design language is called Carbon, and can be used by anyone. It's a key method IBM is using to align a huge number and range of user experiences. However, we realised that there is more to a consistent experience than colour, components, font, style and illustrations. As such, I've been involved in designing several UX patterns for common user flows or actions. These patterns are now in use by product teams all over IBM.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/ux-patterns-consistency</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/ux-patterns-consistency</guid><pubDate>Fri, 09 Oct 2020 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;summary&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#summary&quot; aria-label=&quot;summary permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Summary&lt;/h2&gt;
+&lt;p&gt;IBM’s unified, open source design language is called Carbon, and can be used by anyone. It’s a key method IBM is using to align a huge number and range of user experiences. However, we realised that there is more to a consistent experience than colour, components, font, style and illustrations. As such, I’ve been involved in designing several UX patterns for common user flows or actions. These patterns are now in use by product teams all over IBM.&lt;/p&gt;
+&lt;p&gt;As a member of the IBM Cloud &amp;#x26; Cognitive Services Design System Adoption Guild, I have authored user experience patterns and contributed to design guidelines across the company including into Carbon.&lt;/p&gt;
+&lt;h2 id=&quot;my-roles&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#my-roles&quot; aria-label=&quot;my roles permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;My roles&lt;/h2&gt;
+&lt;h3 id=&quot;1-design-system-adoption-guild-member&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-design-system-adoption-guild-member&quot; aria-label=&quot;1 design system adoption guild member permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Design System Adoption Guild member&lt;/h3&gt;
+&lt;p&gt;As a member of the Design System Adoption Guild, I review patterns contributions (be it new patterns, modifications or suggestions) from all over Cloud, the Cloud Paks, and Security.&lt;br&gt;
+Guild members are responsible for reviewing the experience quality of the contribution, testing the contribution in a variety of use cases, and overseeing the publishing of a contribution.
+This may include drafting/reviewing written guidance documentation for designers to consume when implementing the UX pattern, and updating related patterns in the system to incorporate or reference the new work.
+In this role, we work both with the Carbon team and the Design System Implementation Team.&lt;br&gt;
+I make regular updates to the website navigation, content and upkeep, which has taught me a lot about Github, React, and markdown!&lt;/p&gt;
+&lt;h4 id=&quot;case-study-assist-me&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#case-study-assist-me&quot; aria-label=&quot;case study assist me permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Case study: Assist me&lt;/h4&gt;
+&lt;p&gt;One example of a recent pattern I contributed to at the Design System Adoption Guild was Assist me.
+The Assist me panel is a pattern in development, using Walkme and Watson AI tools, to provide users contextual help and guidance throughout IBM product experiences.&lt;br&gt;
+In Design System Adoption Guild discussions I contributed both a list of all existing formats of help an integration user currently has access to. Later I also engaged Cloud Pak for Integration designers to contribute their work on a learning panel to the new pattern.
+5 products across Integration, AI Apps, and Data &amp;#x26; AI have already adopted the early incarnation of Assist me, the Learn panel.&lt;/p&gt;
+&lt;h3 id=&quot;2-integration-product-representative&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-integration-product-representative&quot; aria-label=&quot;2 integration product representative permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Integration product representative&lt;/h3&gt;
+&lt;p&gt;As representative for the Integration products at the Design System Adoption Guild, I negotiate the interests and requirements of Integration products in pattern contributions.&lt;br&gt;
+When patterns or components are proposed to the library, I review them in weekly integration sessions and ensure that the contributor adapts the contribution to also meet our needs and use cases.
+The move for consistency is a complicated world for a designer to interact with, so I try to listen to feedback and condense messages into as little noise as possible in all directions.
+An asset I produced to help Integration designers navigate the complexity was a Context diagram.
+In understanding the environment they are interacting with, designers now propose design ideas much earlier. I hope that this reflects a new sense of empowerment. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/08c039c2ff4acff15e28a454acf68005/cb93d/ContextMap-01.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 61.24999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAAsSAAALEgHS3X78AAACb0lEQVQozz2Q62+aUADF+fv3ccm2ZNnaNS6brrGaNnPO1UcVi9Y3IKIgr8sFLl5eAiqC7Uz2OPl9OF9OzskhkGVBXbMMIw79fUid0kPoC9zdJVP42mhdjQEqDdfl0WQ4qoIVcrFDadi8LvdLhVf5W2LjBYrtKk4At2dTxbsYBJEAoKjqK01VbVU0lqLBAWOK7DX2JIAlDFhJHK40mVgYmwqvfxrzFwP+hgYFsvm6VnvXJquyXeetHlfh1NwKFJd6kV7nznDylwW87ozfq4AlgjCyvQA4ro4dQwcLpsMwFL+aItd3XNsNoOnKGwdibAfYDfxtHO/P7ILwsD8QnIFvWfVtffymQuVbk6bi5RYwx4IibzWnrZlw1Rc/DPiP08XPlyRJ02OWpWeOUZimKeH5rgnAtPE4a/boSlvodpYUuWjcL/uPrn2uxyJcrGeyKoB0F6fH9I+yKMrO4f0hPSSHQxLGWxxYYKOst8gMJdFVFcvxdc8WkKIsITbdJIrPU4/HY3JMPS+IdntCW/ZmT/WJ9NAkybtflcZsRkvwaa1RC7FBi/eiVKLpyXzlbxwPG6almQjaNqiPWREiYj4nB+P+ECAahX0ZdXm5J8HvI649X+6j2HR15BgMzXV/3PLCgOxcku0LZlBghzcYyYQfxoG3DR3Tc4zIUQKsxxtoshNNXMtsu9bN97rltTDS1LnreTaykKUjhKlBRRIo4vT8jE3w1Mh32sVOuzTolB/b31qV0kPzfszUhswNzfxwbOX0/JL+vStLksT1gyiKiCzLwiiwkWHqGoRoLgjA1C1jY0KF16oj4fNcKbkBOGUvx/9f/9NvIOJt6vUe168AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/08c039c2ff4acff15e28a454acf68005/8ac56/ContextMap-01.webp 240w,
+/portfolio/static/08c039c2ff4acff15e28a454acf68005/d3be9/ContextMap-01.webp 480w,
+/portfolio/static/08c039c2ff4acff15e28a454acf68005/e46b2/ContextMap-01.webp 960w,
+/portfolio/static/08c039c2ff4acff15e28a454acf68005/f992d/ContextMap-01.webp 1440w,
+/portfolio/static/08c039c2ff4acff15e28a454acf68005/882b9/ContextMap-01.webp 1920w,
+/portfolio/static/08c039c2ff4acff15e28a454acf68005/b4689/ContextMap-01.webp 2304w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/08c039c2ff4acff15e28a454acf68005/8ff5a/ContextMap-01.png 240w,
+/portfolio/static/08c039c2ff4acff15e28a454acf68005/e85cb/ContextMap-01.png 480w,
+/portfolio/static/08c039c2ff4acff15e28a454acf68005/d9199/ContextMap-01.png 960w,
+/portfolio/static/08c039c2ff4acff15e28a454acf68005/07a9c/ContextMap-01.png 1440w,
+/portfolio/static/08c039c2ff4acff15e28a454acf68005/29114/ContextMap-01.png 1920w,
+/portfolio/static/08c039c2ff4acff15e28a454acf68005/cb93d/ContextMap-01.png 2304w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/08c039c2ff4acff15e28a454acf68005/d9199/ContextMap-01.png&quot;
+          alt=&quot;Context map showing the organisations and Component libraries for Design Systems at IBM.&quot;
+          title=&quot;Context map showing the organisations and Component libraries for Design Systems at IBM.&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h4 id=&quot;case-study-notifications-panel&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#case-study-notifications-panel&quot; aria-label=&quot;case study notifications panel permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Case study: Notifications panel&lt;/h4&gt;
+&lt;p&gt;I supported Integration designers to contribute a Notification Panel pattern.
+A designer in IBM MQ shared designs for a Notifications panel, which would give MQ users the ability to view, clear, investigate and dismiss notifications, building on the existing toaster notification framework most integration products use.&lt;br&gt;
+At the integration designers’ group, we explored the designs and checked compatibility in each of the products as well as exploring how the experience would work in a Pak that combined products with user and role based access.&lt;br&gt;
+The designer didn’t have markdown and Github skills yet, so I coached her through writing high quality usage documentation in a Work-in-progress page on the Cloud &amp;#x26; Cognitive site.
+We presented the contribution to the Design System Adoption Guild and discussed thoughts from other Paks and groups extensively.  &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/2af0aafc33a0c830254780362324bc9f/cb93d/NotificationsPanelPattern-05.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 65.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAACHElEQVQoz21SS28SURS+JDALVvanqKsu3NofYLog1NRVTaT7mprURUF5FNfSHRsbyzONW9yQVIkV2howMUqYGZ7tzMAwA8yLuX4wxaD1y8mZe0/Od75zzh2STCb3Xu5FotHA9rbP53u8wMYCfr9/438IBAKk1+s1m01K6TNcCGEYxuv1Mh58Gbfb43K5PB7G7fGQW0CcjEYjRVFALhQ+7u6+eB2ORaLxcOQAfmaRg1jsDa6hUDgYfBUMhhzb3w/G43GiqqooipZl2bZNZxhSW6BTaW7izFsitSVK+5Qa9G8QXdcHg8FkMhmPx5LUF675Jl9j2RrbqMJz3PdO+8dV95coNuRBt78EsIhhGMPh0DRNTdMVZdgVFK4r890+1xG5Tr91hYjaEdTrgS7JY2UJaJnACYKAElDG/CzbODv7UimXLy7OYd8uL3E+r1Rq1SpWK8uyowk98InUH/A8D75TT5IkJGEWjLTYwr+YTqcYE0qzbY/GI4SgjMLo3zSMkw8n749Tx6lUOpPJ5vLZXA6WSqffHR0lDg9z+TzywSfmHLhomoZ+cOi024nE26/lcqlU+rzA6afTcqWcyWZWVu48XFtzxMifZpy149BqtQqFglPOsmadmJap6xoibL3+YHV1a+vpjfJtMn44h4zZlueE5zj23v27m5tPbsj2HI4OtgWpVrtdLBanloWVqgvgFfEi9frP9fVHOzvPkY/gb8MjYBhmasloAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/2af0aafc33a0c830254780362324bc9f/8ac56/NotificationsPanelPattern-05.webp 240w,
+/portfolio/static/2af0aafc33a0c830254780362324bc9f/d3be9/NotificationsPanelPattern-05.webp 480w,
+/portfolio/static/2af0aafc33a0c830254780362324bc9f/e46b2/NotificationsPanelPattern-05.webp 960w,
+/portfolio/static/2af0aafc33a0c830254780362324bc9f/f992d/NotificationsPanelPattern-05.webp 1440w,
+/portfolio/static/2af0aafc33a0c830254780362324bc9f/882b9/NotificationsPanelPattern-05.webp 1920w,
+/portfolio/static/2af0aafc33a0c830254780362324bc9f/b4689/NotificationsPanelPattern-05.webp 2304w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/2af0aafc33a0c830254780362324bc9f/8ff5a/NotificationsPanelPattern-05.png 240w,
+/portfolio/static/2af0aafc33a0c830254780362324bc9f/e85cb/NotificationsPanelPattern-05.png 480w,
+/portfolio/static/2af0aafc33a0c830254780362324bc9f/d9199/NotificationsPanelPattern-05.png 960w,
+/portfolio/static/2af0aafc33a0c830254780362324bc9f/07a9c/NotificationsPanelPattern-05.png 1440w,
+/portfolio/static/2af0aafc33a0c830254780362324bc9f/29114/NotificationsPanelPattern-05.png 1920w,
+/portfolio/static/2af0aafc33a0c830254780362324bc9f/cb93d/NotificationsPanelPattern-05.png 2304w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/2af0aafc33a0c830254780362324bc9f/d9199/NotificationsPanelPattern-05.png&quot;
+          alt=&quot;The notifications panel proposal&quot;
+          title=&quot;The notifications panel proposal&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We incorporated notification models different than our own into a joint proposal, and expanded principles in the contribution to wider guidance for top-right navigation items.
+Finally, when strategy changed, and Cloud Paks 2.0 and Bedrock was announced, we contributed our existing guidance to the Bedrock team, who are developing an embeddable notifications service to all Cloud Pak experiences.&lt;br&gt;
+It’ll be really exciting to see this component come to fruition as, with a single back-end framework, it has the ability to provide the most consistent component of experience across IBM yet.&lt;/p&gt;
+&lt;h3 id=&quot;3-pattern-guidance-author--co-author&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-pattern-guidance-author--co-author&quot; aria-label=&quot;3 pattern guidance author  co author permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Pattern guidance author &amp;#x26; co-author&lt;/h3&gt;
+&lt;p&gt;To date, I have authored and co-authored 14 patterns or components which are published in either the Carbon for Cloud and Cognitive, or Carbon Community libraries.
+These are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://pages.github.ibm.com/cdai-design/pal/wip/in-page-navigation/usage/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;In-page navigation&lt;/a&gt; on Carbon for Cloud &amp;#x26; Cognitive&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.carbondesignsystem.com/community/patterns/create-flows&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Create flows&lt;/a&gt; on Carbon Community&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.carbondesignsystem.com/community/patterns/edit-pattern&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Edit flows&lt;/a&gt; on Carbon Community&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.carbondesignsystem.com/community/patterns/export-pattern&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Export&lt;/a&gt; on Carbon Community&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.carbondesignsystem.com/community/patterns/generate-an-api-key&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Generate an API key&lt;/a&gt; on Carbon Community&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.carbondesignsystem.com/community/patterns/import-pattern&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Import&lt;/a&gt; on Carbon Community&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.carbondesignsystem.com/community/patterns/remove-pattern&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Remove and delete&lt;/a&gt; on Carbon Community&lt;/li&gt;
+&lt;li&gt;File uploader on Carbon for Cloud &amp;#x26; Cognitive (deprecated)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pages.github.ibm.com/cdai-design/pal/components/slide-in-panel&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Slide-in panel&lt;/a&gt; on Carbon for Cloud &amp;#x26; Cognitive&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pages.github.ibm.com/cdai-design/pal/components/slide-over-panel/usage&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Slide-over panel&lt;/a&gt; on Carbon for Cloud &amp;#x26; Cognitive&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pages.github.ibm.com/cdai-design/pal/patterns/empty-state/usage&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Empty State&lt;/a&gt; on Carbon for Cloud &amp;#x26; Cognitive&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pages.github.ibm.com/cdai-design/pal/patterns/http-errors/usage&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;HTTP Errors&lt;/a&gt; on Carbon for Cloud &amp;#x26; Cognitive&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pages.github.ibm.com/cdai-design/pal/wip/notification-panel&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Notifications panel&lt;/a&gt; on Carbon for Cloud &amp;#x26; Cognitive&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pages.github.ibm.com/cdai-design/pal/patterns/saving/usage&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Saving&lt;/a&gt; on Carbon for Cloud &amp;#x26; Cognitive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I maintain responsibility for the versioning and review of several of these patterns, while I consult on the future of others when they are picked up by new contributors.&lt;/p&gt;
+&lt;h4 id=&quot;case-study-generate-an-api-key&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#case-study-generate-an-api-key&quot; aria-label=&quot;case study generate an api key permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Case study: Generate an API key&lt;/h4&gt;
+&lt;p&gt;When I joined IBM Event Streams, reusable UI code, patterns and component libraries were just getting started.
+One of the pieces we contributed was the &lt;strong&gt;Generate an API key&lt;/strong&gt; interaction.&lt;br&gt;
+While it might not sound like an obvious candidate for a repeatable UX interaction across IBM products, we discovered that many products did use APIs to authenticate the use of, or connections to the product.
+The initial pattern specified guidance for a user to generate an API key either instantly, or after providing it a name.
+After it was initially adopted by other products, we added guidance for situations where users needed to select which resources an API key authenticated access to.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/cb93d/Storybook-03.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.833333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAAB1klEQVQoz42SXW8SQRSG98dxYwl/hV/gBbLLsB+wSC+UxAJrWkyqFFcL9Kb1AmgJ4dYbSVphWb4UWHZ2Zmc/qnig0Rs1+uRN5mTmnJyTdw5HKVtbtusFNnbWa2tjY5CN/6rdq41nazK2GGc7dDr/iimr6e9EScofHmZVVVaU3yXJMiijqvn808eZ52lN5xzqG+YME3b6psoLfAqh45OTTqfTbrevb3Zc7wV0u91+v69pmoCQJKJy8QX3rLcQLof8hwlfeKVIKCmkmhcXXxYL0zSnk8lsDwQYY9/3t9ttvdFI8rwoy0elMje2vP4n86OxOj6tIpRKCsLl1RUkhWG43QMBYwwqCSEQvz8/5wVBkqViqcQFwf1oZFiWdVarwS1KpyuVSq/Xg8lh1FarNRgMNpvNarVaLpcEY13XIQ3c2RVj6g8Nk3rB6+pZIvkE3IrH448ODqLRaCwWi0QiiUSi2Wzqexr1eqFQgAZpUTwqFsEw725oOITV3uoojdScuiOX+6VMJvPg84MURclms3CUtZccod7nkUlcH6a6HY7vxlNjbM6m08VP5n9iZ+N8wWHi3Q4NTFxKXVgRhwXh9+1/wsFubTChzKcug/8ghN6H4bd/Af67LvsBauoIXsa1jpsAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/8ac56/Storybook-03.webp 240w,
+/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/d3be9/Storybook-03.webp 480w,
+/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/e46b2/Storybook-03.webp 960w,
+/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/f992d/Storybook-03.webp 1440w,
+/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/882b9/Storybook-03.webp 1920w,
+/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/b4689/Storybook-03.webp 2304w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/8ff5a/Storybook-03.png 240w,
+/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/e85cb/Storybook-03.png 480w,
+/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/d9199/Storybook-03.png 960w,
+/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/07a9c/Storybook-03.png 1440w,
+/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/29114/Storybook-03.png 1920w,
+/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/cb93d/Storybook-03.png 2304w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/5a6bf3f64e4203c87c9d28b5474651b3/d9199/Storybook-03.png&quot;
+          alt=&quot;Designers and developers can consume the Generate an API key pattern via the storybook.&quot;
+          title=&quot;Designers and developers can consume the Generate an API key pattern via the storybook.&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;Caption&gt;Designers and developers can consume the Generate an API key pattern via the storybook.&lt;/Caption&gt;
+&lt;p&gt;In the third iteration of the product, I provided guidance for the context around generating an API key.
+I added guidance for teams who wished to fit the “generate” button into the rest of a page. We included examples, in scenarios where the generation and security allowed, the user might be able to return to view guidance while still seeing the key.&lt;/p&gt;
+&lt;p&gt;The really exciting part happened when Cloud, Data &amp;#x26; AI consolidated with Security.&lt;br&gt;
+Working with patterns authors for security, we expanded the Generate an API key pattern to guide designers on two more experiences: the API key management page and Edit an API key.&lt;br&gt;
+I really enjoyed receiving Security’s feedback on our pattern so far, because they helped me make two improvements:  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;We developed guidance for the order that restricted-access API key generation took place. This means that now, all options in generating an API key should follow the pattern of specify name, specify actions, and specify resources.  &lt;/li&gt;
+&lt;li&gt;We wrote warnings that are much more specific to the retrieval scenario. Aware that getting hold of API keys is a varied (or non existent) experience depending on product and platform, we drafted three consistent but clear messages designers can use to convey the retrieval method.  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/cb93d/APIKeyGuidance-04.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.916666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAABTklEQVQoz2WS646CQAxGef9nkwV1AcELJMiCclNZhCXE7GEKGsL50XQy/Tq9jHY6nXRdN03TMAxTgfOlMBTc2rbddd3fnNfrpXmex7UoJRT7PWFZ1na7DYKgqqrHnL7vtTzP0zS9Xq9ikyQpy7JpmrqufyfwqwWDuCiKLMsQ4JCoVJCIYz0hemEmPp/PtOS6rrffO44zOJ632+2YRaEgo1iBgj/iKIqIk7LH+rOUWqifqziOfxQcsRxnYpJxgQwBykzB8aa43+/SSDGB/xETR5EUzFQ3m41YJm8raOFwOPBgGIY0SC2IGcE47cvlQjhbYUOr1Wq9XhPtKo7HI0vyfV+UWMTvtgcxRRLHy+iJpjEipD3xxZFxAI/Ryyhm+s/nU2yzoG1bcd6rIuzTs8xZhkRWnPe3kRFKwGPBODDZBF1JnaLhyFWsFkbSbgF/+x8TlcbO2W4q6wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/8ac56/APIKeyGuidance-04.webp 240w,
+/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/d3be9/APIKeyGuidance-04.webp 480w,
+/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/e46b2/APIKeyGuidance-04.webp 960w,
+/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/f992d/APIKeyGuidance-04.webp 1440w,
+/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/882b9/APIKeyGuidance-04.webp 1920w,
+/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/b4689/APIKeyGuidance-04.webp 2304w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/8ff5a/APIKeyGuidance-04.png 240w,
+/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/e85cb/APIKeyGuidance-04.png 480w,
+/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/d9199/APIKeyGuidance-04.png 960w,
+/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/07a9c/APIKeyGuidance-04.png 1440w,
+/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/29114/APIKeyGuidance-04.png 1920w,
+/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/cb93d/APIKeyGuidance-04.png 2304w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/54d7a13314d0ac2ec0317afeceec464f/d9199/APIKeyGuidance-04.png&quot;
+          alt=&quot;A snippet of ordering fields guidance I wrote in partnership with Security.&quot;
+          title=&quot;A snippet of ordering fields guidance I wrote in partnership with Security.&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;Caption&gt;A snippet of ordering fields guidance I wrote in partnership with Security.&lt;/Caption&gt;
+&lt;p&gt;Finally, I learnt how to consume and test my own pattern when IBM Event Streams changed authentication methods.&lt;br&gt;
+While Event Streams had always used API keys to connect consuming applications, a change in technology meant a change in authentication methods.
+In the new world, a Kafka user (a term representing an authenticated connected application) might use either SCRAM credentials or TLS certificates to connect.
+This meant pushing the Generate an API key pattern to its’ limits.
+We tweaked the “Generate” button to specify a credential type, used modal subtitles to retain context for the user as they followed the generate flow, and abided the ordering of restricted-access options to maintain the consistent experience while adopting significantly different technology.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/cb93d/EventStreams-02.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 61.24999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAAsSAAALEgHS3X78AAABvUlEQVQoz21RzU7CQBjsg6p3OQgteoOWwralxZNBMPIA3LlgOBAS4ULCTxDlxgUhhFZiQVpooTjbGoLodLppk52d2fmYUqkUi8VkWZbwyDIhJJlMCgDPS5KkaZqqqUA6gEqpZTR81mo1Ji4kzi7O2SgXYdlwJHIVCYMsx12GQuWn8mg0GgwGw+Hw3cfoCIZhMEQi1zc3sqKk4JlKYSUwzGSQ4vm5XiwW6/X6fr/fbreu6+6PsNvtGOznolG6W1GOyfN8s9mcTqfj8Xi5XC58QHAQ4yxGFEWOo2KJXvuHEOPWrVbr48OYzWbz+Xy1WlmW5XneL7GQEHDDwPmgVNJpXuB7vZcgHjSbzcZxnY3jWJa9Xq/x+0us0DJVEGL8ElmGc6VSwbWr1SqSmwvTtu3VX7GqaagKMohRGLzRRbfbbbfbjUbj7e0VnlA6jvNP7MztLQYIcxDjpYUJQr/fR2b0jNi2DxieijHhIHMQHhGoPyEQu1vv0/xCUHjilNO243wcYsQ+tBWsCVFEbMd1aVU+TuZMxdn7LNweC4V8Pp/D+/Bwn8thvctmO53OZDLRdX2xMEHd0DFz0/zE1EEc+g06CAvDya9J5wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/8ac56/EventStreams-02.webp 240w,
+/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/d3be9/EventStreams-02.webp 480w,
+/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/e46b2/EventStreams-02.webp 960w,
+/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/f992d/EventStreams-02.webp 1440w,
+/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/882b9/EventStreams-02.webp 1920w,
+/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/b4689/EventStreams-02.webp 2304w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/8ff5a/EventStreams-02.png 240w,
+/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/e85cb/EventStreams-02.png 480w,
+/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/d9199/EventStreams-02.png 960w,
+/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/07a9c/EventStreams-02.png 1440w,
+/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/29114/EventStreams-02.png 1920w,
+/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/cb93d/EventStreams-02.png 2304w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/1c89d7f54d60c2d816b970fc2049b8df/d9199/EventStreams-02.png&quot;
+          alt=&quot;A generated SCRAM credential is displayed in IBM Event Streams.&quot;
+          title=&quot;A generated SCRAM credential is displayed in IBM Event Streams.&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;Caption&gt;A generated SCRAM credential is displayed in IBM Event Streams.&lt;/Caption&gt;
+&lt;p&gt;This taught me a lot about how patterns should be written. To this day, I return regularly to examine the user intent behind actions at one depth, and another, and another.
+Following this pattern through its development, and consuming it myself, has truly led me to believe that if the pattern guidance respects the users’ goal in the interaction, it can be adopted for any use case, no matter how complicated.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Installing Integration technologies using operators in the Cloud Pak for Integration]]></title><description><![CDATA[We developed Kubernetes-native installation of Integration technologies for Integration administrators and practitioners for the June 2020 release and evaluated its effectiveness in task-based user testing.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/install</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/install</guid><pubDate>Wed, 01 Jul 2020 23:46:37 GMT</pubDate><content:encoded>&lt;h2 id=&quot;what-is-the-ibm-cloud-pak-for-integration&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#what-is-the-ibm-cloud-pak-for-integration&quot; aria-label=&quot;what is the ibm cloud pak for integration permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is the IBM Cloud Pak for Integration?&lt;/h2&gt;
 &lt;p&gt;The IBM Cloud Pak for Integration comprises IBM’s integration products (Event Streams, MQ, App Connect, API Connect, Aspera and Data Power). The focus of the team is to streamline workflows of teams and businesses using multiple IBM integration technologies.&lt;/p&gt;
 &lt;h3 id=&quot;cloud-pak-objectives&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#cloud-pak-objectives&quot; aria-label=&quot;cloud pak objectives permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Cloud pak objectives&lt;/h3&gt;
 &lt;ol&gt;

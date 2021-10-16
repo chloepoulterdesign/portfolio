@@ -6,9 +6,15 @@ socialImage: "/media/photo.jpg"
 
 ## My work
 
+### Aveni
+Senior (Principal) designer  
+July 2021 - Current  
+Remote  
+*Leading design in a B2B SaaS start-up. Facilitate world-leading NLP engineers to design human AI solutions for call & contact centre staff. Support team to innovate with Design Thinking. Integrated DesignOps with Sales, PM, founders & engineering. Managing design team.*   
+
 ### IBM Cloud Pak for Integratiom
 User Experience designer  
-June 2020 - Current  
+June 2020 - July 2021  
 Hursley, UK  
 *Working across a portfolio of teams to bring a suite of enterprise developer tools into a unified platform. Using storytelling to align with management, across product teams and develop user focused-code.*  
 #### Member & contributor to the Cloud, Data & AI Design System Adoption Guild  

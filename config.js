@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Chloe Poulter',
     photo: '/photo.jpg',
-    bio: 'Designer at IBM Cloud Pak for Integration & Climate Reality Leader based in Basingstoke, UK',
+    bio: 'Leading Design at Aveni.ai. Supporting NLP experts to empower the customer service industry using Design Thinking. Previously IBM. Based in Winchester, UK',
     contacts: {
       email: 'chloe@poulters.net',
       facebook: '',

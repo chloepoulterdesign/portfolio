@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Work',
+      label: 'Case studies',
       path: '/'
     },
     {
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Chloe Poulter',
     photo: '/photo.jpg',
-    bio: 'Leading Design at Aveni.ai. Supporting NLP experts to empower the customer service industry using Design Thinking. Previously IBM. Based in Winchester, UK',
+    bio: 'Designer, leader & manager looking for tech-for-good opportunities to apply my ML/B2B SaaS Start-up and big-tech experience.',
     contacts: {
       email: 'chloe@poulters.net',
       facebook: '',

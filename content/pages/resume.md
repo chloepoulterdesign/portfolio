@@ -7,56 +7,55 @@ socialImage: "/media/photo.jpg"
 ## My work
 
 ### Aveni
-Senior (Principal) designer  
-July 2021 - Current  
-Remote  
-*Leading design in a B2B SaaS start-up. Facilitate world-leading NLP engineers to design human AI solutions for call & contact centre staff. Support team to innovate with Design Thinking. Integrated DesignOps with Sales, PM, founders & engineering. Managing design team.*   
+Principal designer  
+July 2021 - July 2023  
+* Developed company & product vision inviting collaboration via design sprints & rolled-out to PM/roadmap, board of directors, consulting firm partners and Financial Advice house clients.
+* Tripled design capacity through hiring & designOps.
+* Facilitated a Human-in-the-Loop machine learning strategy via Design Sprint, secured funding & published a case study in the LNCS.
+* Commissioned design language & design system. Established roll-out plan, documentation & quality processes across design & development.
+* Launched a proposition in 4 weeks in response to new FCA Consumer Duty regulations, collaborated with C-suite execs at 3 eminent clients & 5 prospect orgs.
+* Responded to launch of ChatGPT via 2-month lean project aimed to secure further investment.
+* Provided intern & work experience provision, developed career progression framework and created performance management process. Ran design team recruitment.
+* Member of design manager group, informal coach and speaker on creativity & design at conferences
 
 ### IBM Cloud Pak for Integratiom
 User Experience designer  
 June 2020 - July 2021  
-Hursley, UK  
-*Working across a portfolio of teams to bring a suite of enterprise developer tools into a unified platform. Using storytelling to align with management, across product teams and develop user focused-code.*  
-#### Member & contributor to the Cloud, Data & AI Design System Adoption Guild  
-*Documenting, designing for & contributing to one of the world’s largest Design Systems.*   
-#### Cloud, Data & AI Design & UX review panel member
-*Ensuring experience quality & consistency across a $23 billion business segment. Providing feedback to management, marketers and designers from IBM products.*  
+* Pioneered design-led product strategy in partnership with PM team
+* Lead designer on groundbreaking AsyncAPI tooling launch
+* IBM Outstanding Technical Achievement award for reducing install time of product by 95% via UX improvements
+* Authored 14 design system UX patterns used across the IBM organisation
+* Enforced & supported design system adoption in 5 IBM product teams
+* Enjoyed managing an international remote incubator team & management training
+* Member & contributor to the Cloud, Data & AI Design System Adoption Guild; documenting, designing for & contributing to one of the world’s largest Design Systems.
+* Cloud, Data & AI Design & UX review panel member; ensuring experience quality & consistency across a $23 billion business segment. Providing feedback to management, marketers and designers from IBM products.  
 
 ### IBM Event Streams
 User Experience designer, Acting Design lead  
 April 2019 - June 2020  
-Hursley, UK  
-*Adopted the Carbon Design System, added Kafka Connect, Mirror Maker 2 and Openshift Operator features for enterprise Kafka users. Used design sprints, storytelling and close user relationships to design in a complex domain.*   
+Adopted the Carbon Design System, added Kafka Connect, Mirror Maker 2 and Openshift Operator features for enterprise Kafka users. Used design sprints, storytelling and close user relationships to design in a complex domain.
 
 ### IBM Agile Service Manager, Netcool Operations Insight  
 User Experience designer  
 September 2018 - April 2019  
-London, UK  
-*Developed an SRE persona, adopted the Carbon Design system, and established the role of ASM in agile IT error diagnosis.*  
+Developed an SRE persona, adopted the Carbon Design system, and established the role of ASM in agile IT error diagnosis.
 
 #### IBM MQ on Cloud  
 Intern - User Experience designer  
 May 2017 - August 2017  
-Hursley, UK  
 
 #### IBM Maelstrom design internship program
 Intern - Team lead  
 September 2016 - November 2016  
 Austin, Texas  
-*Learnt Enterprise Design Thinking through practice. Lead a team of software designers to create a kids’ card game that would inspire the next generation of Weather Company users.*
+Learnt Enterprise Design Thinking through practice. Lead a team of software designers to create a kids’ card game that would inspire the next generation of Weather Company users.
 
 #### IBM App Connect
 Intern - User Experience designer  
 August 2016 - March 2017   
-Hursley, UK  
-*Designed the customer experience of a product with a huge spectrum of users and uses. Researched, designed and specified connection interactions to third party services.*  
+Designed the customer experience of a product with a huge spectrum of users and uses. Researched, designed and specified connection interactions to third party services. 
 
-#### Lollipop designs
-Studio assistant  
-2012 - 2014  
-London, UK  
-
-## My education
+## Education
 
 #### Climate Reality Leadership Corps Global training
 August 2020
@@ -95,9 +94,7 @@ https://www.indigoawards.com/winners/1181
 [Video](https://vimeopro.com/wmt/spdy-student-packaging-design-competition/video/134704271)  
 
 ## My interests
-- Mandarin chinese (language)
-- Guitar
-- Coaching via the IBM Coaching community of practice
-- Fencing
-- Sailing
-- Cooking
+- Country walks with our Border Terrier, Dave
+- Languages
+- Gardening
+- Vegan & from-scratch cooking

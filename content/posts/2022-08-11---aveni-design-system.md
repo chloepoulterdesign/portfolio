@@ -13,4 +13,70 @@ description: "With a new front-end team on board and already pushing the limits 
 socialImage: "/media/image-0.jpg"
 ---
 
-Coming soon!
+## Joining Aveni
+
+When I joined Aveni, the UI broadly used Material Design 2 with components available on MUI.com, plus a few odd exceptions. Without any regular design guidance or reviewing the UI roughly included functionality that had been designed by a contractor for them, with some usability issues, annoyances and inconsistencies. 
+
+![A useable UI had been built by the engineering team following specs provided by a contractor.](/media/ds-calldetailspreredesign.png)
+
+Unfortunately, without any specific front-end resource and therefore unable to customise components, they were unable to progress towards the more complicated and customised functionality they wanted, especially in relation to audio controls and data visualisation:
+
+![The team were unable to achieve the remaining designs they had with Material UI and without Front End expertise.](/media/ds-contractordesigns.png)
+
+Unconvinced that much of the designed functionality was really necessary, I set out on a heuristic evaluation, identifying a list of minor usability improvements such as:
+- scrolling and paginated areas employed on a scrolling page
+- inconsistent typography
+- poor information hierarchy
+- lack of directed workflow, guidance or instruction (read about how I changed this [here](/posts/aveni-vision)!)
+
+## Embracing Material UI
+I resolved that most of the usability issues and lack of personality in the UI could be resolved by adopting Material UI more closely and paying attention to the implemented experience. 
+
+![I started to pay more attention to implementing Material UI at a high quality.](/media/ds-bettermaterialwork.png)
+
+When my first design team member came on board, I needed to pay more attention to internal tools. I used Glitch to explore and then finalise colour rules.
+
+![I used glitch to experiment with a themed set of Material components.](/media/ds-glitch.png)
+
+I themed the Google-provided Figma Material UI library and created Figma components for us to use. This was a surprisingly sub-optimal experience!
+
+![The google-provided Figma document themed with Aveni colours, radii and type.](/media/ds-muifigma.png)
+
+## Problems afoot
+Soon enough, we faced further problems. Alongside Material's heavy use of the primary colour and focus on mobile (not a device type of any interest to our users), I discovered that MUI were not planning to build components that we needed or support the newly released Material 3.0. MUI's decision to diverge from the (sensible) restrictions that give Material UI its personality meant that our UI was becoming increasingly soulless, and we would soon be supported less and less by Google with design guidance.
+While I was happy to continue working with MUI, the hire of some front-end developers and a new member in my team was a great opportunity to pivot to a design system of our own.
+
+Selling a custom design system to the company was surprisingly simple. With implementation time a constant complaint the efficiencies a design system offered, along with the opportunity to breathe life into Aveni, was welcome.
+
+## Commissioning
+Our new design team member joined us and I used the design system evaluation and redesign project as an onboarding tool. I knew the new staff enjoyed UI work the most, had more UI skills than the rest of us, and would need a good opportunity to become familiar with the product. 
+I created a project brief for the designer, suggesting a project plan, timeline and setting a few requirements for the output - timelessness & modernity.
+
+![A written project brief and plan for creating design language concepts, evaluating them and proceeding to an MVP of the design system.](/media/ds-muifigma.png)
+
+I asked the designer to focus initially on the design language and principles that would underly the system, inspired by the strong principles which made IBM's carbon make sense. 
+
+The designer's first concepts clearly struggled with the existing Aveni brand colours. Tuning into the user demographic and seriousness of the risk & compliance and financial services sectors, they had toned down the primary pink and relied on the secondary navy blue colour which aged and ubiquitised the platform.
+
+![The designer's first concept - a dark blue screen with bright pink navigation](/media/ds-concept1.png)
+![The designer's second concept - a light screen with dark blue navigation](/media/ds-concept2.png)
+
+I directed the designer further towards my vision for a light but colourful, more modern platform by leading a group moodboarding session. 
+
+![I redirected the designer using a collaborative moodboarding session](/media/ds-moodboard.png)
+
+We couldn't escape the glassmorphic dark UIs that were very trendy at the time, and entertained the option of a dark and light theme. 
+
+![The designer produced a trendy concept for a dark glassmorphic UI](/media/ds-darkconcept.png)
+
+Unfortunately without a graphic designer to support the team, and not enough engineering resource to launch two themes at once, I had to direct the designer to focus their efforts on a light theme. I encouraged them to consider light glassmorphism and aurora trends instead, acknowledging also that these aspects of a design would age quickly.
+
+![A light UI concept with purple gradient accents](/media/ds-gradientconcept.png)
+![A light UI concept with pastel aurora accents](/media/ds-auroraconcept.png)
+
+Both concepts hinged on introducing a new purple brand colour to the platform - which the designer had identified didn't align with the user demographic. Struggling for direction, we shared 4 minified concepts with a panel of users and internal staff. 
+To evaluate their responses, I also led the team to codify our goals for the UI language we'd eventually adopt. We used words to describe this and chose the concept with the closest-aligning descriptions offered by users. 
+
+![4 minified UI concepts we shared with users](/media/ds-4UIconcepts.png)
+
+![A statement capturing the intent of our new design language](/media/ds-goals.png)

@@ -1,4 +1,671 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Chloe Poulter - Portfolio]]></title><description><![CDATA[Portfolio for Chloe Poulter, Designer]]></description><link>https://chloepoulterdesign.github.io/portfolio/</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 18 Aug 2023 09:59:58 GMT</lastBuildDate><item><title><![CDATA[Supporting Aveni to respond to ChatGPT]]></title><description><![CDATA[As a Natural Language Processing company, Aveni needed to respond fast to the release of ChatGPT, the fastest-spreading product launch the world had ever seen. Providing UX advice while we constructed demos and PoCs very fast and without user experience at the core was challenging. The project helped me develop opinions about healthy rules and boundaries for lean innovation.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/aveni-gpt</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/aveni-gpt</guid><pubDate>Sat, 11 Mar 2023 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Consumer Outcomes Index: A quick-response to seize opportunity in a change of FCA regulation]]></title><description><![CDATA[When the FCA launched the Consumer Duty - a new regulation entirely revolutionising the way Financial services approach customers - firms were struggling to act on vague guidance. We worked quickly to apply what we'd built for Quality Assurance users of Aveni, to measure the ways advisers were performing their duty to consumers in calls. I designed the proposition, project managed the team and curated the go-to-market strategy.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/consumer-outcomes-index</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/consumer-outcomes-index</guid><pubDate>Sun, 11 Dec 2022 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Establishing a lean startup design team]]></title><description><![CDATA[In the 2 years I spent at Aveni I established a 3 (at times 4) person team, the DesignOps and also the management and HR supports needed to support them. ]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/establishing-design-team</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/establishing-design-team</guid><pubDate>Fri, 11 Nov 2022 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A published design sprint bringing Humans-in-the-loop of Aveni Machine learning]]></title><description><![CDATA[I used a design sprint to facilitate a team of leaders, NLP engineers and designers through a particularly complex UX challenge. The goal was to begin collecting data from users as they performed their work with which we could improve Machine Learning models. Our approach was published as a case study in the LNCS journal.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/hitl-strategy</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/hitl-strategy</guid><pubDate>Tue, 11 Oct 2022 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Commissioning a design system for Aveni]]></title><description><![CDATA[With a new front-end team on board and already pushing the limits of the Material UI system we were using, I raised support to build a design system of our own. I nurtured a new designer on the team to develop a suitable concept for the new design language and structure the work to build out the full system.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/aveni-design-system</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/aveni-design-system</guid><pubDate>Thu, 11 Aug 2022 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Developing a vision for Aveni and its products]]></title><description><![CDATA[Arriving at Aveni I quickly identified that their early start-up momentum had given way to a need for clear vision. In 3 months I used design sprints and workshops, and speculative design, to faciliate the creation of a new vision for the company and its flagship product.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/aveni-vision</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/aveni-vision</guid><pubDate>Thu, 11 Nov 2021 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[UX patterns for IBM Design consistency]]></title><description><![CDATA[IBM's unified, open source design language is called Carbon, and can be used by anyone. It's a key method IBM is using to align a huge number and range of user experiences. However, we realised that there is more to a consistent experience than colour, components, font, style and illustrations. As such, I've been involved in designing several UX patterns for common user flows or actions. These patterns are now in use by product teams all over IBM.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/ux-patterns-consistency</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/ux-patterns-consistency</guid><pubDate>Fri, 16 Oct 2020 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;summary&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#summary&quot; aria-label=&quot;summary permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Summary&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Chloe Poulter - Portfolio]]></title><description><![CDATA[Portfolio for Chloe Poulter, Designer]]></description><link>https://chloepoulterdesign.github.io/portfolio/</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Aug 2023 20:47:41 GMT</lastBuildDate><item><title><![CDATA[Supporting Aveni to respond to ChatGPT]]></title><description><![CDATA[As a Natural Language Processing company, Aveni needed to respond fast to the release of ChatGPT, the fastest-spreading product launch the world had ever seen. Providing UX advice while we constructed demos and PoCs very fast and without user experience at the core was challenging. The project helped me develop opinions about healthy rules and boundaries for lean innovation.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/aveni-gpt</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/aveni-gpt</guid><pubDate>Sat, 11 Mar 2023 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Consumer Outcomes Index: A quick-response to seize opportunity in a change of FCA regulation]]></title><description><![CDATA[When the FCA launched the Consumer Duty - a new regulation entirely revolutionising the way Financial services approach customers - firms were struggling to act on vague guidance. We worked quickly to apply what we'd built for Quality Assurance users of Aveni, to measure the ways advisers were performing their duty to consumers in calls. I designed the proposition, project managed the team and curated the go-to-market strategy.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/consumer-outcomes-index</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/consumer-outcomes-index</guid><pubDate>Sun, 11 Dec 2022 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Establishing a lean startup design team]]></title><description><![CDATA[In the 2 years I spent at Aveni I established a 3 (at times 4) person team, the DesignOps and also the management and HR supports needed to support them. ]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/establishing-design-team</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/establishing-design-team</guid><pubDate>Fri, 11 Nov 2022 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A published design sprint bringing Humans-in-the-loop of Aveni Machine learning]]></title><description><![CDATA[I used a design sprint to facilitate a team of leaders, NLP engineers and designers through a particularly complex UX challenge. The goal was to begin collecting data from users as they performed their work with which we could improve Machine Learning models. Our approach was published as a case study in the LNCS journal.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/hitl-strategy</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/hitl-strategy</guid><pubDate>Tue, 11 Oct 2022 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Commissioning a design system for Aveni]]></title><description><![CDATA[With a new front-end team on board and already pushing the limits of the Material UI system we were using, I raised support to build a design system of our own. I nurtured a new designer on the team to develop a suitable concept for the new design language and structure the work to build out the full system.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/aveni-design-system</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/aveni-design-system</guid><pubDate>Thu, 11 Aug 2022 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;joining-aveni&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#joining-aveni&quot; aria-label=&quot;joining aveni permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Joining Aveni&lt;/h2&gt;
+&lt;p&gt;When I joined Aveni, the UI broadly used Material Design 2 with components available on MUI.com, plus a few odd exceptions. Without any regular design guidance or reviewing the UI roughly included functionality that had been designed by a contractor for them, with some usability issues, annoyances and inconsistencies. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/0333be1e609feadd6b4f8b96506ea421/29007/ds-calldetailspreredesign.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 65.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAAB90lEQVQoz31S227TQBD1P/EBvPDIP/AHPCCekPrKfwRVQlWLEEhEVBWClhaphLZpLpYSEpzYiePYjuPLrnd39hImaVOsVuJoZa2sPXPOmRnLscdk4WeJvwzHyzgghGqtVxuYB8CfADIvCB4uhPWz0WQnL+jJS3r4DJx6lDJKCqW1UmpVATL1FjeF8GIZrfJ5P/HaZNYFEueUEUrzvKC0rGriU28a/HH94WgyjxIsp4yxBBeUQ06YUEYqLYSoqm3dGjTS7PS6bbvb6gz7AykYPrBAAOdMag2BLykFtcbDtCjt+uHur1Gt4exeuHvd8HohLCVlukyFlDwKOSFJmpUlu0/ciBNpnh7Fj+vhk8/Ro/fT56ehhdkQSkkhlQDI8vxeq7YRdG84fvvDrp3ate+dD53p70yiMmBOoWSQJZSVAPCPUDnYMCS/awz2G4O98/4ne+bkSN6wvSh487U+XUSccZASS6jtSG57ZkyUFq/P3J3j8atvzs6Z/3FELY2GAbDw3A/QP84J9wR3QEpZtY21mi27eXndbrauLq4cLwCzWs956/F/QPFlmsdJGicZ0OLLKD3y6B15dbeAlQnf3m++7mTmjCfuxD/segedoJeCBet+YUaJTSakLArKcF8krqfB/HFKshJzKcZ5nCzncRLGCXbrYFhcRvwvqG/bQTvYpEIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/0333be1e609feadd6b4f8b96506ea421/8ac56/ds-calldetailspreredesign.webp 240w,
+/portfolio/static/0333be1e609feadd6b4f8b96506ea421/d3be9/ds-calldetailspreredesign.webp 480w,
+/portfolio/static/0333be1e609feadd6b4f8b96506ea421/e46b2/ds-calldetailspreredesign.webp 960w,
+/portfolio/static/0333be1e609feadd6b4f8b96506ea421/f992d/ds-calldetailspreredesign.webp 1440w,
+/portfolio/static/0333be1e609feadd6b4f8b96506ea421/fad48/ds-calldetailspreredesign.webp 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/0333be1e609feadd6b4f8b96506ea421/8ff5a/ds-calldetailspreredesign.png 240w,
+/portfolio/static/0333be1e609feadd6b4f8b96506ea421/e85cb/ds-calldetailspreredesign.png 480w,
+/portfolio/static/0333be1e609feadd6b4f8b96506ea421/d9199/ds-calldetailspreredesign.png 960w,
+/portfolio/static/0333be1e609feadd6b4f8b96506ea421/07a9c/ds-calldetailspreredesign.png 1440w,
+/portfolio/static/0333be1e609feadd6b4f8b96506ea421/29007/ds-calldetailspreredesign.png 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/0333be1e609feadd6b4f8b96506ea421/d9199/ds-calldetailspreredesign.png&quot;
+          alt=&quot;A useable UI had been built by the engineering team following specs provided by a contractor.&quot;
+          title=&quot;A useable UI had been built by the engineering team following specs provided by a contractor.&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Unfortunately, without any specific front-end resource and therefore unable to customise components, they were unable to progress towards the more complicated and customised functionality they wanted, especially in relation to audio controls and data visualisation:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/d9ed5/ds-contractordesigns.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAACrUlEQVQ4y01TTW/TMBjOn+SIhBBHTkNCIO0XcOY6CaSdgCs3BOJrE1MZoirb2q4f6WeWdm2cxI7tJH54bHag6qPXsS37fT4clabCVmTYZwJ5UUJVFdrWBTjH+j/u5pyvbRvGVmtURrn8/S+onxMXLU4uEXdHyLWF1DVKQpkmoFAGZWVREJLfHqYmmhYN/v1UC4gaTuiWa62L8s4UYpRAaQUtSzTWIJ4tsElTGHarlWLlGjuRUqH2h2UZdLoBygzvvo3w6OjcPT7u4Wy8d5HQEuluh48XCb6MBc4XJYbrDB8uU3QWEr21xNdJjouVQGeUgo0gf/0K64MDJIeHmD97jusnT13//gNk309dVJYSUlVIhEa8LXHNw7JS87vCrbTYE5vCIhUKoiJd22DPBmSeAw2JU8tGa1ePR2j27DCjGUVRcNECtQnVKMlNKoxbq8O8r66pUVW8OI4xXyyQbjY0xMDB/6mnsdSQztq6hqV2ldeMG3Le7i/x4zDnnbxbqzieTiYYj8ehJskNMpG7htoKUbjIu6aNRUnaxtYhGqvVEstkjYZ0/FpF6JpOs7uSxnS73YBe7w+mpFps18wU2TFIkcgL3lAEB30sFsLg9CrF7UYEzbaFgeXtw3iH2XrHC9sQF3cXm0lW48XnxL08SbCTxkU+0Ird+Q2+E1m3uFncQsy3dNSRooV1LbIJ9corHt5gSf1mszkSMvk9iPHmx8R9Gu58humylOF1GAruaVkvPA0oCf/tUVkaBdJvGXjS7vf7uLq6wmAwwM16BZ3v+HQsCbf+QBW0Kyu+CqVD3QUJJI2ywRBDM3zITTCFwY+nmE6n7HJGI4Q31XmGbdO4SHODZraW2wLzVCDJFHXTdLqgFJpR+5c9n1UvjdfQz9m6CUoenaW4dzx0D99O0JkX7i8dNNkdnLmQTAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/8ac56/ds-contractordesigns.webp 240w,
+/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/d3be9/ds-contractordesigns.webp 480w,
+/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/e46b2/ds-contractordesigns.webp 960w,
+/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/f992d/ds-contractordesigns.webp 1440w,
+/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/882b9/ds-contractordesigns.webp 1920w,
+/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/d3d72/ds-contractordesigns.webp 2880w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/8ff5a/ds-contractordesigns.png 240w,
+/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/e85cb/ds-contractordesigns.png 480w,
+/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/d9199/ds-contractordesigns.png 960w,
+/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/07a9c/ds-contractordesigns.png 1440w,
+/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/29114/ds-contractordesigns.png 1920w,
+/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/d9ed5/ds-contractordesigns.png 2880w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/bdc039db6643c60928b6b52d7b256ed7/d9199/ds-contractordesigns.png&quot;
+          alt=&quot;The team were unable to achieve the remaining designs they had with Material UI and without Front End expertise.&quot;
+          title=&quot;The team were unable to achieve the remaining designs they had with Material UI and without Front End expertise.&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Unconvinced that much of the designed functionality was really necessary, I set out on a heuristic evaluation, identifying a list of minor usability improvements such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;scrolling and paginated areas employed on a scrolling page&lt;/li&gt;
+&lt;li&gt;inconsistent typography&lt;/li&gt;
+&lt;li&gt;poor information hierarchy&lt;/li&gt;
+&lt;li&gt;lack of directed workflow, guidance or instruction (read about how I changed this &lt;a href=&quot;/portfolio/posts/aveni-vision&quot;&gt;here&lt;/a&gt;!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;embracing-material-ui&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#embracing-material-ui&quot; aria-label=&quot;embracing material ui permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Embracing Material UI&lt;/h2&gt;
+&lt;p&gt;I resolved that most of the usability issues and lack of personality in the UI could be resolved by adopting Material UI more closely and paying attention to the implemented experience. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/d9ed5/ds-bettermaterialwork.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.083333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAAB8UlEQVQoz41Su24TURD139BS0/AhfABtREEDFBQJfSQkBAUUyEJIFFBFoEiIEEAiOLIRWS8xjuPF8j7s3c0+7t3nHObubmwTB4niaGb33nPmzMxtlVmOKJJrECL9L8gkg5QpNd/UKlYvyHVCHCf/hLrvz0KceTGpnP9RqyypJrKrOGCEjChp4uVOz8VU7HwcYO4EpJzWgkUJyW37Qxv2no55dwzn6xD2/k94+pSJ2dLRimOVDwY2PuwNYNkBJQvBkgWZNPfPYFgWppaDmTmH63iIArHWthCMuB7PSDeR8nmSZtQUWTr0BibMt9/h9icIRfJ3e02epjmCIKmWFvgSEydAkNRCVcGFIMPvnMJ6+B7+lyFkXtQzbcQinqnPAqe/LBx1ucVJiF6nA639DoePXiArQc39ZimKWBSQAASPQC1l1V0UClhmgenxLsyDu/j0WcPNjad4fnUT/duv6y0vZ0hUWY4S4i1XsWmhQn0miHXJ7O3Tkwe36PG9Nr28tkX329/oypvf9ExzCVmGkLmtgtu9OKu1d8iO07yE8WOEza0d3Lm+jZMb23h1cISNXQ3GLEAqG4dCyIUjFVexcFjFjFzPJWN0Qv2eRtphl3T9mMZjg7KYO1Oc5tlcEEwuQX3Oz4vStKC8IFKLyDiXXOhcTMU/oUiIsLgpWz8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/8ac56/ds-bettermaterialwork.webp 240w,
+/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/d3be9/ds-bettermaterialwork.webp 480w,
+/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/e46b2/ds-bettermaterialwork.webp 960w,
+/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/f992d/ds-bettermaterialwork.webp 1440w,
+/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/882b9/ds-bettermaterialwork.webp 1920w,
+/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/d3d72/ds-bettermaterialwork.webp 2880w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/8ff5a/ds-bettermaterialwork.png 240w,
+/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/e85cb/ds-bettermaterialwork.png 480w,
+/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/d9199/ds-bettermaterialwork.png 960w,
+/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/07a9c/ds-bettermaterialwork.png 1440w,
+/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/29114/ds-bettermaterialwork.png 1920w,
+/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/d9ed5/ds-bettermaterialwork.png 2880w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/b4cba0e60a2c1c0c6d3de4e70568f9e9/d9199/ds-bettermaterialwork.png&quot;
+          alt=&quot;I started to pay more attention to implementing Material UI at a high quality.&quot;
+          title=&quot;I started to pay more attention to implementing Material UI at a high quality.&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;When my first design team member came on board, I needed to pay more attention to internal tools. I used Glitch to explore and then finalise colour rules.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/be061/ds-glitch.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 61.24999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAACe0lEQVQoz01TTW/TQBT0/+eEBBKcuCNOCCFR1FCkVpCWgmgPpGmaJmnitR1/7afXXxnGzgFWGu96vTvvzbznQIoWicgRiQRJmGO3KCEeJJKVOWI9wP57J2JiOLO8VdjONTJyxEuPbKkRFGUJV1lUVXVEXcERddcQ7XFuKjRdja5viBb9oUUpM0zPc4idA9DDVg3S3CFY3N2hJOlA5lwNEWkUeQUrHUzpoEtLwgZN26LhXFUecUw1ccp7KZraE834zZoaQSQEjLXc8Hjalfj+I8bvmxSrZY77uz3SJIErNMpwDyM1dCFR7HNkmUbMWWkDqTVVVmgZNIjiGCUP9ZS0eCzx/kTg7FuKm5nE5S9BGXvYmYCdR/h/VF2Pt7cxtqrGLFZImJ32JBQiQlEq9PRmJxRJMswWCputxXyRQTlmcLXE47OP2L44xdPzz4jfXaE79Ci0hW9a+l7D14O/PYLBD+c8DoeO2ZBkqbBYWWxjFsp3tBtQP1d4enmK7asvCF+fIf9ww8sdZacYEhpUZll2lLxP9lDMsGsbVq7Ccq15wHDPwihW27EQrK5FO0rdlBHuwxUV9chyttkuRBgK7NN0LFzQdd3IfGDEgoQP7LEoljDGw9qWUjq4XMHuUsC1OJ98xcmnTyN5zMw0C9KSw1P2EGQkHHDgizYVHjcGYaS49nC+Z9QehpckW2sY0+kUk8nkmO16A8HsVJmj9W7cC4bH4XCsnFSOHhrKllDKMMOOYCCtkNKjYVxfX+Pi4mJcN1VNoho72vOQ8g8yDYJ6aMymHmVLadiL9DCRbGALLS2isID3FXL6VRTFKNF7Pzby0HvD3dN5jDeXa5z8EfgLyOCLYPowv8gAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/8ac56/ds-glitch.webp 240w,
+/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/d3be9/ds-glitch.webp 480w,
+/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/e46b2/ds-glitch.webp 960w,
+/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/f992d/ds-glitch.webp 1440w,
+/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/882b9/ds-glitch.webp 1920w,
+/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/8d05f/ds-glitch.webp 3584w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/8ff5a/ds-glitch.png 240w,
+/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/e85cb/ds-glitch.png 480w,
+/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/d9199/ds-glitch.png 960w,
+/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/07a9c/ds-glitch.png 1440w,
+/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/29114/ds-glitch.png 1920w,
+/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/be061/ds-glitch.png 3584w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/e35650b60aeda3d9b0ff214edf5bda88/d9199/ds-glitch.png&quot;
+          alt=&quot;I used glitch to experiment with a themed set of Material components.&quot;
+          title=&quot;I used glitch to experiment with a themed set of Material components.&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I themed the Google-provided Figma Material UI library and created Figma components for us to use. This was a surprisingly sub-optimal experience!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/0486e/ds-muifigma.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAAB6klEQVQoz31Ta3PaMBD0//9ZaadJywwfgEJJw8sEk8aWJUu2/MRb7VFov6SaubEed6vd1Tnq+x5t26Jpmg/DOSc5wzDIl1FVFbz3uFwu6LpO8sqyRHQ6nWTjozGOo5wTlLkE5SARrTUOh4OccfCCqK7rexKLOWcyv+NwEQa8nXs3Rhw3VWTKsztgURRywERSns/nWK5WWH1fQqfqXsw8MlJKCWOCEIyEmraRPQHc7XaYzWY4Ho8wxiCOY1lvt1spuEpuYQoDay3yfwAp1YRLrCnQBlI+gEcsXCwWeHt7ExabzQbT6RS8iIw56pBsdQBLc6RphqYOD9N0cl4WFjbTqCsvbKPaVbKgbJUpPH55xLfJBA+fP+E9fb96ExLHfkTf9rCuDAzZGUFi7WEDIJn2w9XjyNsSQ0gYQ2HjPM7Pe6RxArU7watCAKVFan9vjVvLcJ6rHEZpdE0rOVFyTpAkCXKj0WgH+5JA/3xFtf2FwVQC6IJ3fBAGfWbQHgKSoc3NX8nr9Rpfn56wP+zhghf5OsbyYYJstUdnrh6K+X9AGLc5reBjkF0XOkEkZyoLRqfBm/A3FBX0yyvUcwy3PaMvvFjxISBl26BKGTS+vr4yiy7Bwzr0EiX7HwmaOIPZJGj1/xlyXyJId6WTvd/oH5eapjecjgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/8ac56/ds-muifigma.webp 240w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/d3be9/ds-muifigma.webp 480w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/e46b2/ds-muifigma.webp 960w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/f992d/ds-muifigma.webp 1440w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/882b9/ds-muifigma.webp 1920w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/4e699/ds-muifigma.webp 2008w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/8ff5a/ds-muifigma.png 240w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/e85cb/ds-muifigma.png 480w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/d9199/ds-muifigma.png 960w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/07a9c/ds-muifigma.png 1440w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/29114/ds-muifigma.png 1920w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/0486e/ds-muifigma.png 2008w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/d9199/ds-muifigma.png&quot;
+          alt=&quot;The google-provided Figma document themed with Aveni colours, radii and type.&quot;
+          title=&quot;The google-provided Figma document themed with Aveni colours, radii and type.&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;problems-afoot&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#problems-afoot&quot; aria-label=&quot;problems afoot permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Problems afoot&lt;/h2&gt;
+&lt;p&gt;Soon enough, we faced further problems. Alongside Material’s heavy use of the primary colour and focus on mobile (not a device type of any interest to our users), I discovered that MUI were not planning to build components that we needed or support the newly released Material 3.0. MUI’s decision to diverge from the (sensible) restrictions that give Material UI its personality meant that our UI was becoming increasingly soulless, and we would soon be supported less and less by Google with design guidance.
+While I was happy to continue working with MUI, the hire of some front-end developers and a new member in my team was a great opportunity to pivot to a design system of our own.&lt;/p&gt;
+&lt;p&gt;Selling a custom design system to the company was surprisingly simple. With implementation time a constant complaint the efficiencies a design system offered, along with the opportunity to breathe life into Aveni, was welcome.&lt;/p&gt;
+&lt;h2 id=&quot;commissioning&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#commissioning&quot; aria-label=&quot;commissioning permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Commissioning&lt;/h2&gt;
+&lt;p&gt;Our new design team member joined us and I used the design system evaluation and redesign project as an onboarding tool. I knew the new staff enjoyed UI work the most, had more UI skills than the rest of us, and would need a good opportunity to become familiar with the product.
+I created a project brief for the designer, suggesting a project plan, timeline and setting a few requirements for the output - timelessness &amp;#x26; modernity.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/0486e/ds-muifigma.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAAB6klEQVQoz31Ta3PaMBD0//9ZaadJywwfgEJJw8sEk8aWJUu2/MRb7VFov6SaubEed6vd1Tnq+x5t26Jpmg/DOSc5wzDIl1FVFbz3uFwu6LpO8sqyRHQ6nWTjozGOo5wTlLkE5SARrTUOh4OccfCCqK7rexKLOWcyv+NwEQa8nXs3Rhw3VWTKsztgURRywERSns/nWK5WWH1fQqfqXsw8MlJKCWOCEIyEmraRPQHc7XaYzWY4Ho8wxiCOY1lvt1spuEpuYQoDay3yfwAp1YRLrCnQBlI+gEcsXCwWeHt7ExabzQbT6RS8iIw56pBsdQBLc6RphqYOD9N0cl4WFjbTqCsvbKPaVbKgbJUpPH55xLfJBA+fP+E9fb96ExLHfkTf9rCuDAzZGUFi7WEDIJn2w9XjyNsSQ0gYQ2HjPM7Pe6RxArU7watCAKVFan9vjVvLcJ6rHEZpdE0rOVFyTpAkCXKj0WgH+5JA/3xFtf2FwVQC6IJ3fBAGfWbQHgKSoc3NX8nr9Rpfn56wP+zhghf5OsbyYYJstUdnrh6K+X9AGLc5reBjkF0XOkEkZyoLRqfBm/A3FBX0yyvUcwy3PaMvvFjxISBl26BKGTS+vr4yiy7Bwzr0EiX7HwmaOIPZJGj1/xlyXyJId6WTvd/oH5eapjecjgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/8ac56/ds-muifigma.webp 240w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/d3be9/ds-muifigma.webp 480w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/e46b2/ds-muifigma.webp 960w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/f992d/ds-muifigma.webp 1440w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/882b9/ds-muifigma.webp 1920w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/4e699/ds-muifigma.webp 2008w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/8ff5a/ds-muifigma.png 240w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/e85cb/ds-muifigma.png 480w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/d9199/ds-muifigma.png 960w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/07a9c/ds-muifigma.png 1440w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/29114/ds-muifigma.png 1920w,
+/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/0486e/ds-muifigma.png 2008w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/930db6b09a16e775e0c9a3e7a03596d4/d9199/ds-muifigma.png&quot;
+          alt=&quot;A written project brief and plan for creating design language concepts, evaluating them and proceeding to an MVP of the design system.&quot;
+          title=&quot;A written project brief and plan for creating design language concepts, evaluating them and proceeding to an MVP of the design system.&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I asked the designer to focus initially on the design language and principles that would underly the system, inspired by the strong principles which made IBM’s carbon make sense. &lt;/p&gt;
+&lt;p&gt;The designer’s first concepts clearly struggled with the existing Aveni brand colours. Tuning into the user demographic and seriousness of the risk &amp;#x26; compliance and financial services sectors, they had toned down the primary pink and relied on the secondary navy blue colour which aged and ubiquitised the platform.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/df6c7b18785044b0a6f1fb80acc360b6/29007/ds-concept1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACKklEQVQoz5WSzWvTcBjHI86DeBFxWxu7NWma9C1N2q5L29gmdX2x7ah2fdmwFt3aehgMFHSehiCIN6/+DSIeZCcRvIg9OZD9Q7+vT9JuTDYFD1/y5Emez/N9eB7uOPASmlKGolehJmuQInfg8WfBCznwogmveBuL/hw8wjTmA3nc9GVglfsY7R3g3fgNDp++x/cvP/B4Zx/csbgPValATK5D0hpYlNfgUUpTSTb8oSLCeg1yvIpbUoGABXpaWJZt8PQu+y3IHhOhWBWCUgT369oYijEE/3qCpVcTXH72DdzeV3AvJrjafItgyEYq/xBJcwtapgc9u4loqgV1dQOGNUCi8ADRXA+q0UUgWgV3xA0gJwZYev4ZN3Y/YW70EVeGHzC3e4jr9QMIwQJiqx3E0htQ020CdRBONqFo65Rrn+a1TBdS7C64n9wQulxFvvEEZmmbirtuNy27BUmtQwiXXGdxArmib5HkPYQSzWne6LhNnHgG3IEWrGDF7iOZPSlsI0GjhfQG/CdAo+PKcRJJ3Z8Bu+7/54COQ6sxRsYeuCM4o2jkJKjWaClrbsHpeNQsTA6dbV8kB8gIyLKVbZbO95lm9Fg802VRc5NJeoPRyIwWwciBKyeOrrQYFTM6o3Piji6NEPHb8MoWfHQOzin4SI+EFspiHfMB0807JzOVNTufvzgkICMgmxdNxp/pFBWKTBIt5rnAxb9EwCELL1tsIfAn0GmwQPL+J/A3h6Nua/bC+LEAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/df6c7b18785044b0a6f1fb80acc360b6/8ac56/ds-concept1.webp 240w,
+/portfolio/static/df6c7b18785044b0a6f1fb80acc360b6/d3be9/ds-concept1.webp 480w,
+/portfolio/static/df6c7b18785044b0a6f1fb80acc360b6/e46b2/ds-concept1.webp 960w,
+/portfolio/static/df6c7b18785044b0a6f1fb80acc360b6/f992d/ds-concept1.webp 1440w,
+/portfolio/static/df6c7b18785044b0a6f1fb80acc360b6/fad48/ds-concept1.webp 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/df6c7b18785044b0a6f1fb80acc360b6/8ff5a/ds-concept1.png 240w,
+/portfolio/static/df6c7b18785044b0a6f1fb80acc360b6/e85cb/ds-concept1.png 480w,
+/portfolio/static/df6c7b18785044b0a6f1fb80acc360b6/d9199/ds-concept1.png 960w,
+/portfolio/static/df6c7b18785044b0a6f1fb80acc360b6/07a9c/ds-concept1.png 1440w,
+/portfolio/static/df6c7b18785044b0a6f1fb80acc360b6/29007/ds-concept1.png 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/df6c7b18785044b0a6f1fb80acc360b6/d9199/ds-concept1.png&quot;
+          alt=&quot;The designer&amp;#39;s first concept - a dark blue screen with bright pink navigation&quot;
+          title=&quot;The designer&amp;#39;s first concept - a dark blue screen with bright pink navigation&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/f7d9bb91a2948afc3c3ba97609b4545b/29007/ds-concept2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAABqklEQVQoz3VSO0sDQRA+f4KNgoViJRaCdsbKThv9C5aCYGHnv7Cx0sZebQQRVBJN8IEooiL4Bh+RxPjIJbnbu729/ZzZmLCRZOC73Z2b+eab3XH6B8aRTh4iv5LB8+Ypyt8uoGJoAFrzt9FqPhXHCEMJpZRBFEVmdfoGx5DOnEDliihmC9AUaJuUEqVyBWWCUnGd1PcFKhWvwc/mdPWOYGP7AFNrj5hcPsfE0gVGF88xvHCKmdVbSKrs+z48zydFoQEXCYLA+Bi8Z79RyITrWxkMLVyifT6NtrkUnNkknOkdIj2jVhRCSgj+IIRoILX93LbT2ZPAbuoIdzkXB9cvuHr9wc27i+tsEc+fFVPVTqypsQn5zKsh7OhOILl3hFB4+MznEMuAblxCRyEiWb10rv5fIYP3NqqEPVVCnxwfhS8ITiL4HpGIoKXCmB7PBsfxY7FCTYTadUv69S2rPc/TgRBaQOmAQihQCz5bIFIzVc1gWk7tH9dHxFQjlA/vUUrfmqq1WbPB/mYwConQsNM81SvJp4IOH/ItlVTHUTdTOGwRKl0zO6mVNfv/CxqBKbn5gt5qAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/f7d9bb91a2948afc3c3ba97609b4545b/8ac56/ds-concept2.webp 240w,
+/portfolio/static/f7d9bb91a2948afc3c3ba97609b4545b/d3be9/ds-concept2.webp 480w,
+/portfolio/static/f7d9bb91a2948afc3c3ba97609b4545b/e46b2/ds-concept2.webp 960w,
+/portfolio/static/f7d9bb91a2948afc3c3ba97609b4545b/f992d/ds-concept2.webp 1440w,
+/portfolio/static/f7d9bb91a2948afc3c3ba97609b4545b/fad48/ds-concept2.webp 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/f7d9bb91a2948afc3c3ba97609b4545b/8ff5a/ds-concept2.png 240w,
+/portfolio/static/f7d9bb91a2948afc3c3ba97609b4545b/e85cb/ds-concept2.png 480w,
+/portfolio/static/f7d9bb91a2948afc3c3ba97609b4545b/d9199/ds-concept2.png 960w,
+/portfolio/static/f7d9bb91a2948afc3c3ba97609b4545b/07a9c/ds-concept2.png 1440w,
+/portfolio/static/f7d9bb91a2948afc3c3ba97609b4545b/29007/ds-concept2.png 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/f7d9bb91a2948afc3c3ba97609b4545b/d9199/ds-concept2.png&quot;
+          alt=&quot;The designer&amp;#39;s second concept - a light screen with dark blue navigation&quot;
+          title=&quot;The designer&amp;#39;s second concept - a light screen with dark blue navigation&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I directed the designer further towards my vision for a light but colourful, more modern platform by leading a group moodboarding session. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/b761595fa9aef3f78d1e2ee75757c53b/29007/ds-moodboard.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 92.08333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAIAAADUsmlHAAAACXBIWXMAAAsSAAALEgHS3X78AAADjklEQVQ4y2VTS2wbRRheCXpASkDAASGKAKkqLxUk7lxBiAOiSmz1IapyQOLcC3AgIhWUIPJoKRVNG6pGTSsEFKcp9caoTdIkjYnjV5xWNbaDd71Z7669j5nd2ZmdXXsZtxZE5TuMtLPzzffP938/1/JQ0PJNoGPfsykOw3aMX3r73cH+Qz+82X9q6o8stNDG3UqlKmxtye12O9wGjsBG2/OAQ2xKdR1tFOjs9bm33tn3Xt/hyIGPTk6Oz+aPj144emRoRFAVRtjO53xbaPkt7BIAkSRbnhNOXfplxyOPPvbEzheee+OrUwMZODi99O3Q8FiuXGaE1nZyGymBF9QFqCnQ0AHbunlj+dD+D6KRyMEDB0+cOx0vzEzNzXxz7nxZkh5UJq4NAII2drFHiIdcghyEiU9MmTgmdLCqmQA4LsFB60FwftDWmjY7bzsUIh9TH2Hsui77968CpdTzvPB/4FxMHMexHRc6BBHfNH1Kw1QqNTl5fnFxMZlcyeeyZyfOptPplZXk/PxNnk9ci/NxPsHzs1xDFhFChuUAG1k2ajSZ6+HCwkJPT09vby9bH3p4x9PP7votNr37pT27dr+yty/SH92/ty8aie7jcDnnYmRBt67o1A8gIsyQWk0cZRgbHR4ZPnbs6/EzE9dvzL348muv7nm9UqkErbaDXFYyB7Qt7ADsBSZA1A8102NXbH/Y/ccnk38+/uRTz+x8vlSqsE+vYy7ldFkCpmkBZhhu6kBpWBShQFUcRQT1267xl9GQAhvWxNrAwBeDR79UVZXdjonHOsJduRWf+Z2Htu8gf3lp7VYyHboQpDNqccWKH6n+9Im+seiaFsIe6zClPlPsyJKO+Vy+VEilMopi3S1WSyVJ02HIClmdla+d1MeHhNNjjZ9j4np9+uKMkRdUqSH9XYPA7rZKUzVBkBTFaDSBouomgCyopFZAawlrLQfv3HHXN5sV43Y2BzabwARbkmyasEsO274oisxDTVPFql4qKjVJCsJW7Pjy8PsXv49eFvMqO0coxRR3YtVmdnYTyp0Y+W7izI+MbJrNYgFmVuuG2WRzIhe10rKwuSqxQWUpujR+IZtdj/162ZB1jEiX/OHhjz/79HPd0JlydVNWpEZZltbjG6GFw3tzwBaW+3l+ri4rQrWqyZqHu1HlgiBQFIXn+Xg8nkjwV69eyeRy1AtCnw1fB/dr7Fh9z2U/+C8F/wBobowTwBtn2gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/b761595fa9aef3f78d1e2ee75757c53b/8ac56/ds-moodboard.webp 240w,
+/portfolio/static/b761595fa9aef3f78d1e2ee75757c53b/d3be9/ds-moodboard.webp 480w,
+/portfolio/static/b761595fa9aef3f78d1e2ee75757c53b/e46b2/ds-moodboard.webp 960w,
+/portfolio/static/b761595fa9aef3f78d1e2ee75757c53b/f992d/ds-moodboard.webp 1440w,
+/portfolio/static/b761595fa9aef3f78d1e2ee75757c53b/fad48/ds-moodboard.webp 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/b761595fa9aef3f78d1e2ee75757c53b/8ff5a/ds-moodboard.png 240w,
+/portfolio/static/b761595fa9aef3f78d1e2ee75757c53b/e85cb/ds-moodboard.png 480w,
+/portfolio/static/b761595fa9aef3f78d1e2ee75757c53b/d9199/ds-moodboard.png 960w,
+/portfolio/static/b761595fa9aef3f78d1e2ee75757c53b/07a9c/ds-moodboard.png 1440w,
+/portfolio/static/b761595fa9aef3f78d1e2ee75757c53b/29007/ds-moodboard.png 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/b761595fa9aef3f78d1e2ee75757c53b/d9199/ds-moodboard.png&quot;
+          alt=&quot;I redirected the designer using a collaborative moodboarding session&quot;
+          title=&quot;I redirected the designer using a collaborative moodboarding session&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We couldn’t escape the glassmorphic dark UIs that were very trendy at the time, and entertained the option of a dark and light theme. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/fc532716fdb3ae0a621d3ac1d35defb7/29007/ds-darkconcept.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.666666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAACK0lEQVQoz32Qy2vUUBSHs9ep+Mokuffm5uTRm0xmJs+5SW7acbTWtrTOroWCaNWKj1IFBRe6Kj6QzijClCL4WIh0I4r4t3Up1swgLoVvd87vnI+f5HY62GV12zpByDENH9dIDes1NEEjU45zMk9P8+Ss30Y0BioACxNmCc6yYklaWn20ef/r+q2DmYWHLOQ6S2Xq1Q1PMVqK4cuU1ZGnYG8KwTq/euX2J6dcYzBvG72y7EsbW59HH48Ge0cbd38GcXfaO4+MCENEoMCQYgh1qzRsUcP24wsP7g1+xDe2ba1rQVeIFWl98/3O4PfO4NfqxsEU8lQQit5CUOULAolKm6oeq3og6x6GmJgZtUpqCo3EXCxKa9f3n7w43Bkebm1/6aOEOzNReYlYEYJUxo25y0+v3fm2uf29t3jzjOYSMx8fNYVConE47i6EM323Mw9+ahFHo47CGqd0SzYZtMK2WGrm/Ua+As1cowGGDIMgZqGQkIsFyY24ZjRU2pCJLxuhUqG3NdpWwW+l3WY8CywhVruqsNLGwDHklbxCgnHYCwuNBMTsEKiUBB73VG0kKrSa0bkgWXRbc9P+LHFCZISTUUZM/jfMwlzFATJSRLMJHNEE0bCuN7BZNVRMXiUK9VVaGcUaTZGRyKiZFheldt6lTgweBzcDl09IwU10FlCWGozDmISy0HIzyy0qbK+gdlL2lqXXo71nu4Png+H/eTl8szsc/ePV7tv9dx/+AL2vl5gSQLjzAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/fc532716fdb3ae0a621d3ac1d35defb7/8ac56/ds-darkconcept.webp 240w,
+/portfolio/static/fc532716fdb3ae0a621d3ac1d35defb7/d3be9/ds-darkconcept.webp 480w,
+/portfolio/static/fc532716fdb3ae0a621d3ac1d35defb7/e46b2/ds-darkconcept.webp 960w,
+/portfolio/static/fc532716fdb3ae0a621d3ac1d35defb7/f992d/ds-darkconcept.webp 1440w,
+/portfolio/static/fc532716fdb3ae0a621d3ac1d35defb7/fad48/ds-darkconcept.webp 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/fc532716fdb3ae0a621d3ac1d35defb7/8ff5a/ds-darkconcept.png 240w,
+/portfolio/static/fc532716fdb3ae0a621d3ac1d35defb7/e85cb/ds-darkconcept.png 480w,
+/portfolio/static/fc532716fdb3ae0a621d3ac1d35defb7/d9199/ds-darkconcept.png 960w,
+/portfolio/static/fc532716fdb3ae0a621d3ac1d35defb7/07a9c/ds-darkconcept.png 1440w,
+/portfolio/static/fc532716fdb3ae0a621d3ac1d35defb7/29007/ds-darkconcept.png 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/fc532716fdb3ae0a621d3ac1d35defb7/d9199/ds-darkconcept.png&quot;
+          alt=&quot;The designer produced a trendy concept for a dark glassmorphic UI&quot;
+          title=&quot;The designer produced a trendy concept for a dark glassmorphic UI&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Unfortunately without a graphic designer to support the team, and not enough engineering resource to launch two themes at once, I had to direct the designer to focus their efforts on a light theme. I encouraged them to consider light glassmorphism and aurora trends instead, acknowledging also that these aspects of a design would age quickly.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/3f20d60dba5747cbc8de69cb45e4d9d0/29007/ds-gradientconcept.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAACd0lEQVQ4y41TS2vUUBTORlfuBFHEjf/Evb+gC3HhRiviY1FBEFeCiBb8D1XqRlyobRUEN4Kt1k7bhW3GdvpwZjKPJJPk5uYmOZ/n3DRVqxQPfHMy9+Z8+c7LSUYK4TBCvxNg6IUIBhHysoTWBqnK/oBOqzPkBSMHqASZHFplJOeKvdPfCtD60sbOche7qx6660NsNzpQQQoxKglEFcQ4CC++bGF6pYunjS4WN30EvqLQTxCFihxvc4jmp21sLOyiOb9jfWuxDR1nlqAUQkbJqsXCUYrxqXmMTTdw8ZWL8bkN3H3bpK0fIcdocrTW4NerYOSiCYeZyXL4QYIgSi0G/AHPTyiOdZXyruuh7fbQXu+h4/bRdQfoNgfwvg8tehv+PvriW76tpRBnXOcszcQTp4tolJJz+9wkzjtXMHZ0AheO3MGlY/dw+fh9XD3xANdOPcT1049w68wkJs4+wc2Tj/HsxiwMGURRzIpSlCTlICqLEsYU5DTer+HD1Gd8fL6EhZer+Pr6G5berKExw5hdx/KcixXG6rsmlmdctJY6MDl3O9VMYOqGyS83nwml6IUpLf7HJFDIlFI8ObklFIXi85wJYx6P0UAhGWnrR4MEoRcj5S5LGgXPXJGXFnlWcM3MPmGWVZNAezNVFCU5WaShezH0IEYWppD/Rhm5rOtTQZ6lTtyMRGkkScqk2i4Ag+wipIYcw20veEOKYYySx6H0YxBfUj2DRL+GWwj5Lqm2wiJJhFxT7R0VZQh7POV+ijjgw1Db9KRW9YbUEIXZnkJlsU9MtXeUMPOAJpxqzGoFdm+rFP7yVpUEJ/8iFIW/yT+QxqGo3ztI+BPc3Rt6Mheh/wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/3f20d60dba5747cbc8de69cb45e4d9d0/8ac56/ds-gradientconcept.webp 240w,
+/portfolio/static/3f20d60dba5747cbc8de69cb45e4d9d0/d3be9/ds-gradientconcept.webp 480w,
+/portfolio/static/3f20d60dba5747cbc8de69cb45e4d9d0/e46b2/ds-gradientconcept.webp 960w,
+/portfolio/static/3f20d60dba5747cbc8de69cb45e4d9d0/f992d/ds-gradientconcept.webp 1440w,
+/portfolio/static/3f20d60dba5747cbc8de69cb45e4d9d0/fad48/ds-gradientconcept.webp 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/3f20d60dba5747cbc8de69cb45e4d9d0/8ff5a/ds-gradientconcept.png 240w,
+/portfolio/static/3f20d60dba5747cbc8de69cb45e4d9d0/e85cb/ds-gradientconcept.png 480w,
+/portfolio/static/3f20d60dba5747cbc8de69cb45e4d9d0/d9199/ds-gradientconcept.png 960w,
+/portfolio/static/3f20d60dba5747cbc8de69cb45e4d9d0/07a9c/ds-gradientconcept.png 1440w,
+/portfolio/static/3f20d60dba5747cbc8de69cb45e4d9d0/29007/ds-gradientconcept.png 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/3f20d60dba5747cbc8de69cb45e4d9d0/d9199/ds-gradientconcept.png&quot;
+          alt=&quot;A light UI concept with purple gradient accents&quot;
+          title=&quot;A light UI concept with purple gradient accents&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/eb6bb8079d2ccb4b82cfc3847b7aef3b/5c744/ds-auroraconcept.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 73.33333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAACY0lEQVQ4y4VT207cMBDNb/cHKvpQqV9RUFWe+kqfWAlWRdDCglhWlMsuJLu5x7ET33I6sQlNEW0dHY0nmZyZ8RwHRVqhR5kzlFkFwRsP8TpqxlGVNepagHPhrN832GxiBOl9hvvLEOF1jOU8gsXrq+u8FbVEmXIil2hbTVBoGuX2aZoi4AVlLltIJmFrhY58m3BooWCIxVrr0NFjjHXQxsBY++zbzpeRZhmC26NHrM7WSOYJxCIDP44gTyKoTKCMOYqQoSLbVC2s8T9KqqiKa/CcWs0btFR1b9fhBsH+9ikmO2f4tnuOH59nmO2cIp7cwrAW0c8U4TxGfJdjfZ1CNdoRMmr5cPsM008zHO1e4OTLHNGCYpcRgtlNgsWqwDLKkVEGs0mAOKaWGzSqpUapRaugjHJt96vhEvezEI+UbHkeIX0o3Pu8yBEcZwrfc4kbJlDxDJY/oGNUoeRuEJ3tPDqPfimtKYF0yQy0T0Yxbij7qcIklbgoGdI6guZX6PgMRlWunoFoTGieztK53W8lOMJprjGlCq8qhpyHMGJO2jh3hE+C+UM+RhlHOJCPE2X9lAs66IIkwkQLxmsSdYlWlKSt5llnY/Sa87p7CU1HnyAIkwphyhDndGZSQ0tDqldOuKxq6AZx8qXzOW//Aelvytu9K7w/XOHDwQoHdwUWawatNETjCRgjHZYVpFQkcC/uXuh9lf33PpEQ3jrCrb053k3usDV9xJuvN/h4RFOmmzAE9oR1zf1tGQ2nb3MgHKwjVPRBUjWKoJ/2QwsDIWM1VWa8jP5H2P/48jzGQX8bwjhmTPgLulV+Xm2Woi0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/eb6bb8079d2ccb4b82cfc3847b7aef3b/8ac56/ds-auroraconcept.webp 240w,
+/portfolio/static/eb6bb8079d2ccb4b82cfc3847b7aef3b/d3be9/ds-auroraconcept.webp 480w,
+/portfolio/static/eb6bb8079d2ccb4b82cfc3847b7aef3b/e46b2/ds-auroraconcept.webp 960w,
+/portfolio/static/eb6bb8079d2ccb4b82cfc3847b7aef3b/b732a/ds-auroraconcept.webp 1206w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/eb6bb8079d2ccb4b82cfc3847b7aef3b/8ff5a/ds-auroraconcept.png 240w,
+/portfolio/static/eb6bb8079d2ccb4b82cfc3847b7aef3b/e85cb/ds-auroraconcept.png 480w,
+/portfolio/static/eb6bb8079d2ccb4b82cfc3847b7aef3b/d9199/ds-auroraconcept.png 960w,
+/portfolio/static/eb6bb8079d2ccb4b82cfc3847b7aef3b/5c744/ds-auroraconcept.png 1206w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/eb6bb8079d2ccb4b82cfc3847b7aef3b/d9199/ds-auroraconcept.png&quot;
+          alt=&quot;A light UI concept with pastel aurora accents&quot;
+          title=&quot;A light UI concept with pastel aurora accents&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Both concepts hinged on introducing a new purple brand colour to the platform - which the designer had identified didn’t align with the user demographic. Struggling for direction, we shared 4 minified concepts with a panel of users and internal staff.
+To evaluate their responses, I also led the team to codify our goals for the UI language we’d eventually adopt. We used words to describe this and chose the concept with the closest-aligning descriptions offered by users. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/1192d/ds-4UIconcepts.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.41666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABYlAAAWJQFJUiTwAAAEFklEQVQ4yx2TeWxUVRTGJ9EYxUgEAshSF5aiFLBgy5Jgqn+YoEaJC2kMWwyiSKxBcSFoYoz+JcGkUhACKmXaoSwNUNoOdBvbztAyTGmnnZk3LTPvTWff3ix9M1OK6M8bcvPl3Nx89zvn3PNdndTtYrTLhdxmRzEOoLTdRr56E7nRgnLlBnJtB54T7bg6HdwxuVCuDQqeDeX6AHJTP8olwbnQg+d3I7L+b3TOi3bC7gCJYBw1ECcVSpIOJtHiWZKDPuRjbUh7z+BotDMueDFf4gES43GSPnFHxHw2R8BgZvRrAzqHwUYqnCSlZVDTabKaRmFq6gG0fIHoDQnp8zpu11uxSz6UQIxkOsdtdxA5ppHK5MjzL/6rNkYPnkM3fNLMRDxNLp1lQs2QVlNkU2mm8pNohRzqkILzYz3W4z3oe8fokwJEoipNFjfdowkiYZVYLoNVb8T9zQVRYY2JTEQlHosTC0eJR0UbCZWpwl1S2TTxWwr27fUMHunC7Q0xpkQYDyYYH5Ph/n1GxTM4vW4s1Xpc+y6jG6vp4G5hErUgWtZSpAui0imN/8TKUUAdCTJYeRZHTTt3REJZJFYnJwlP5Ehqk6S1PKrgWfW9DO8Rgl27uwl1OvGKSXs6nAIusR8jaPHjtXgZrbNjqmilc1cHI8IF9lYHrusSbqOb4WYJ2SQTd8RwHbrFza1t6FoPDGGtamHw02YGdgt80sLArmZu7mzCsuMSfe+fp29bB8YqG9KBTqR9XQIm3Pu7kapMjOztZGjPdQYqm7CLM51ktCM7AoTGIgRdAQE/4yMKMYcPzRskKjzp+dZAX0MvtcdqOfPbH/z16/EHOH3oGHWHRTx8FOOX1Sg/N6IbqrfRb3Pj8kcIpfO4AgmCsSxhNU/s7hTePtHW/vMYfqijuGQ1zy5dzlNFi3lu2SrmiDh73jNMX1jEjjVvEvjpKrrBUxa8Th9haZxIPMUdUVVWiCaiE2j37iHfcOGuOsvl7w1UbHidl8orKH5hDa+9/DYly0uZP/dpZi8oYueKTfh/bBaC1V143X5CoRg+YdpBuxstl0cOpxhSwliN/bg+aqBx/5+Urt5Iycq1LCl+kQULFjFz1jyKipYyf/ESti7bhO+7VuHDavFPh714/CGSqQm8SY147h9cShyrJ4D5Si+Obee4/MVJSstfYUXpBp4vKeehRx7lsSdmMHvOQqbNmskHS97A+5WYsvVgO4rTQyAQIRyMooQzSOOqMG+KZCaLu82BbXMLDdtPUFa2kVUr14lWy5guxGbOmMusJ+fw8OPT2LpoM9JnJnSGt2yY3jFg3tJI97tXMFe20LPlGj2VbZi3t2N+z0jHq2ZOb+jiYsUvNKw/Qv26GurWHkVffpzadSc4tf4oF8rquPVhP/8DmUWfUVLp5J8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/8ac56/ds-4UIconcepts.webp 240w,
+/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/d3be9/ds-4UIconcepts.webp 480w,
+/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/e46b2/ds-4UIconcepts.webp 960w,
+/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/f992d/ds-4UIconcepts.webp 1440w,
+/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/882b9/ds-4UIconcepts.webp 1920w,
+/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/935c8/ds-4UIconcepts.webp 2662w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/8ff5a/ds-4UIconcepts.png 240w,
+/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/e85cb/ds-4UIconcepts.png 480w,
+/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/d9199/ds-4UIconcepts.png 960w,
+/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/07a9c/ds-4UIconcepts.png 1440w,
+/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/29114/ds-4UIconcepts.png 1920w,
+/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/1192d/ds-4UIconcepts.png 2662w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/1798c1a85e96f2f0ac8208d7c4ee1852/d9199/ds-4UIconcepts.png&quot;
+          alt=&quot;4 minified UI concepts we shared with users&quot;
+          title=&quot;4 minified UI concepts we shared with users&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/767aa13f66e66079cdee53ed210440e5/29007/ds-goals.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAABOklEQVQoz62T646CQAxGef8H1AQBBbkoclNBNALdnCYlsK7/luSkHUK/+doZnHEc5fV6yfP5lGEYhLVFw9bfnmma5tzp+142m41st1uJ41jSNNV4PB4lSRKNrKEoCrndbnK9XpXH4zFvhCg47/dbdrudBEEwFyJEcVVVUpalRmiaRgXhfr8rdLcS5MXhcBDXdZUoiiQMw9kZ4oAwQowGE19b7rpOPM8T3/cVhNjA2O/3kmWZ1HWt0Kq5BOpXDpkDjijEXZ7ncjqdlPP5rCBoMGOLl8vls2UOBSE7CHLAHYUU2TxxSOtE5gm0by2rIDMxIUSWjshxiggHYCdMTqvk1H8cCkUmwAhwDeTQtu0KBHmPKN+tBM0hM/l9RczV8poYCP95KPwFtiuRD4hsxAfLP+YbK0H5h2d5D38AIVWZFvmn3vQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/767aa13f66e66079cdee53ed210440e5/8ac56/ds-goals.webp 240w,
+/portfolio/static/767aa13f66e66079cdee53ed210440e5/d3be9/ds-goals.webp 480w,
+/portfolio/static/767aa13f66e66079cdee53ed210440e5/e46b2/ds-goals.webp 960w,
+/portfolio/static/767aa13f66e66079cdee53ed210440e5/f992d/ds-goals.webp 1440w,
+/portfolio/static/767aa13f66e66079cdee53ed210440e5/fad48/ds-goals.webp 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/767aa13f66e66079cdee53ed210440e5/8ff5a/ds-goals.png 240w,
+/portfolio/static/767aa13f66e66079cdee53ed210440e5/e85cb/ds-goals.png 480w,
+/portfolio/static/767aa13f66e66079cdee53ed210440e5/d9199/ds-goals.png 960w,
+/portfolio/static/767aa13f66e66079cdee53ed210440e5/07a9c/ds-goals.png 1440w,
+/portfolio/static/767aa13f66e66079cdee53ed210440e5/29007/ds-goals.png 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/767aa13f66e66079cdee53ed210440e5/d9199/ds-goals.png&quot;
+          alt=&quot;A statement capturing the intent of our new design language&quot;
+          title=&quot;A statement capturing the intent of our new design language&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Developing a vision for Aveni and its products]]></title><description><![CDATA[Arriving at Aveni I quickly identified that their early start-up momentum had given way to a need for clear vision. In 3 months I used design sprints and workshops, and speculative design, to faciliate the creation of a new vision for the company and its flagship product.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/aveni-vision</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/aveni-vision</guid><pubDate>Thu, 11 Nov 2021 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Coming soon!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[UX patterns for IBM Design consistency]]></title><description><![CDATA[IBM's unified, open source design language is called Carbon, and can be used by anyone. It's a key method IBM is using to align a huge number and range of user experiences. However, we realised that there is more to a consistent experience than colour, components, font, style and illustrations. As such, I've been involved in designing several UX patterns for common user flows or actions. These patterns are now in use by product teams all over IBM.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/ux-patterns-consistency</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/ux-patterns-consistency</guid><pubDate>Fri, 16 Oct 2020 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;summary&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#summary&quot; aria-label=&quot;summary permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Summary&lt;/h2&gt;
 &lt;p&gt;IBM’s unified, open source design language is called Carbon, and can be used by anyone. It’s a key method IBM is using to align a huge number and range of user experiences. However, we realised that there is more to a consistent experience than colour, components, font, style and illustrations. As such, I’ve been involved in designing several UX patterns for common user flows or actions. These patterns are now in use by product teams all over IBM.&lt;/p&gt;
 &lt;p&gt;As a member of the IBM Cloud &amp;#x26; Cognitive Services Design System Adoption Guild, I have authored user experience patterns and contributed to design guidelines across the company including into Carbon.&lt;/p&gt;
 &lt;h2 id=&quot;my-roles&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#my-roles&quot; aria-label=&quot;my roles permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;My roles&lt;/h2&gt;
@@ -338,7 +1005,42 @@ Some of the regular themes in the feedback I provide concern:&lt;/p&gt;
 &lt;li&gt;Facilitate cooperation between IBM product teams to create a consistent user experience.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&quot;capability-installation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#capability-installation&quot; aria-label=&quot;capability installation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Capability installation&lt;/h2&gt;
-&lt;p&gt;The Cloud Pak for Integration offers integration administrators OpenShift (and Kubernetes) native management of their integration product instances. We developed this experience for the June 2020 release and have since carried out user testing to understand it’s effectiveness&lt;/p&gt;</content:encoded></item><item><title><![CDATA[COVID-19 design challenge]]></title><description><![CDATA[Our COVID-19 challenge group armed 3 industry professionals with the Enterprise Design Thinking skills to take a start-up acceleration platform to market.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/covid-19-challenge</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/covid-19-challenge</guid><pubDate>Wed, 01 Apr 2020 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;project-description&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#project-description&quot; aria-label=&quot;project description permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Project description&lt;/h2&gt;
+&lt;p&gt;The Cloud Pak for Integration offers integration administrators OpenShift (and Kubernetes) native management of their integration product instances. We developed this experience for the June 2020 release and have since carried out user testing to understand it’s effectiveness&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Design thinking for Fashion Students at Southampton Solent University]]></title><description><![CDATA[IBM comprises a huge range of products with experiences for many different user roles. One of the ways that we ensure high quality and consistent interfaces is with Designed User Experience reviews. I really enjoy being a member of the reviewing panel, and feel that it's a great way to learn about different user problems. I get to meet lots and lots of design and product teams, all over the world, too!]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/southampton-solent</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/southampton-solent</guid><pubDate>Wed, 01 Apr 2020 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;I’m involved as mentor and coordinator of the Creative Direction brief on the Southamptopn Solent MA Creative Direction for Fashion and Beauty course.
+MA Creative direction for Fashion and Beauty is one of the most popular postgraduate courses on offer at Southampton Solent University. The university is located less than 10 miles from IBM Hursley and we enjoy a long-running relationship with students who undertake the “IBM Technology” brief as part of their Creative Direction module.  &lt;/p&gt;
+&lt;p&gt;The course information page can be accessed &lt;a href=&quot;&quot;&gt;here&lt;/a&gt;.  &lt;/p&gt;
+&lt;p&gt;Students study creative direction from fashion and beauty backgrounds with the aim of extending their practice into creative direction roles for brands, media, and more. The creative direction module that IBM is involved with allows students to self-direct a project which interacts with an IBM technology, using newly acquired design thinking skills which we introduce in the first semester. A combination of design thinking, user-centred design, business of design, and technology skills are encouraged through the year in informal lectures and mentoring relationships.  &lt;/p&gt;
+&lt;p&gt;As &lt;strong&gt;coordinator&lt;/strong&gt; I work with the course leader and other IBMers to structure the support and partnership we offer to students. This is a role I took on in January 2020.
+As &lt;strong&gt;mentor&lt;/strong&gt; I provide 1:1 support to a single student through the duration of their second semester.  &lt;/p&gt;
+&lt;h2 id=&quot;coordination&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#coordination&quot; aria-label=&quot;coordination permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Coordination&lt;/h2&gt;
+&lt;p&gt;Coordinating the IBM Technology brief for the MA students is a really enjoyable activity.
+It’s refreshing for several reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Students aren’t from technology, design, or business backgrounds. With experience typically in fashion or beauty, almost all of the skills we use as IBMers are new to the students, and it reminds me to make Enterprise Design Thinking, design, and technology as accessible as possible.&lt;/li&gt;
+&lt;li&gt;Students aren’t learning to be designers. Typically our outreach roles involve existing or aspiring designers. The creative director isn’t a role we often (or ever!) interact with, so seeing how students adopt our tools and methods is always new and inspiring.&lt;/li&gt;
+&lt;li&gt;The brief is very open to interpretation. Without specific deliverables required, the module emphasis is on documenting creative decisions and learning. This means that we get to enjoy a huge variety in outcomes from advertising campaign mockups to app design prototypes to 3-dimensional product development.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As project coordinator, I’ve enjoyed the following experiences in 2019/2020:&lt;/p&gt;
+&lt;h3 id=&quot;concept-reviews---december-2019&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#concept-reviews---december-2019&quot; aria-label=&quot;concept reviews   december 2019 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Concept reviews - December 2019&lt;/h3&gt;
+&lt;p&gt;In december of the students’ first semester, we met to watch a presentation on each concept and provide feedback. At this point, students are aware of a selection of IBM technologies they might consider, and of the principles and activities behind some Enterprise Design Thinking. In the presentation, we expect to see a user-need and initial concept played back. Then, we critiqued each student’s work so far. The adoption of design thinking I saw at this stage was really make-or-break - since the onus of choosing a user, building empathy, establishing pain points and ideation is all taken individually and in isolation. I enjoyed probing all this thinking they had done, and gently steering them back on track to creating user-centred outcomes. Concepts must be pitched either within or as an extension to an existing brand - which can make choosing a user or problem to start from really challenging.&lt;/p&gt;
+&lt;h4 id=&quot;evaluation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#evaluation&quot; aria-label=&quot;evaluation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Evaluation&lt;/h4&gt;
+&lt;p&gt;Evaluating the research and concepts of each student was really challenging, but essentially came down to how well we felt they’d taken the focus on empathy and real user insights to their brand of choice. Almost all students needed encouragement to go out and speak to real users. The majority of students managed to identify real user needs from what research they had done, and using Enterprise Design Thinking methods. The majority of the guidance and feedback we offered was on the IBM technology they should research, and how ambitious their concepts should be.&lt;/p&gt;
+&lt;h4 id=&quot;concept-development-presentations-and-mentor-matching&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#concept-development-presentations-and-mentor-matching&quot; aria-label=&quot;concept development presentations and mentor matching permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Concept development presentations and mentor matching&lt;/h4&gt;
+&lt;p&gt;Early in the students’ second semester we invite them to Hursley for a tour of the studio and to meet their mentors. I expected recruiting mentors to be challenging, but it proved to be really easy. On this day, students who chose to continue with the IBM brief and develop their concepts presented their projects so far. Working with the course director, we elected each student an IBM mentor and provided a level of feedback. I set up a slack channel and various support for mentors to ensure that we all offered a similar level of support through the rest of the year.&lt;/p&gt;
+&lt;h4 id=&quot;supporting-mentors&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#supporting-mentors&quot; aria-label=&quot;supporting mentors permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Supporting mentors&lt;/h4&gt;
+&lt;p&gt;Through the remainder of the project year I’ve liased with mentors and with the course director. As mentors all come from different IBM disciplines, we chat regularly about how the projects are shaped by us, how to maintain effective ‘mentor’ relationships, and share resources. The effect of the Covid-19 outbreak on the students has been really interesting, but I have been pleased to see mentors and students surpassing the expectations of their course lead consistently. The creativity of students in terms of adopting free online tools and communicating their design decisions in written documents has been really exciting.&lt;/p&gt;
+&lt;h4 id=&quot;business-impact&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#business-impact&quot; aria-label=&quot;business impact permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Business Impact&lt;/h4&gt;
+&lt;p&gt;Maintaining the partnership with a local university, even in a non-typical industry such as fashion, strengthens IBM’s contribution to the local community. Designers both within and outside of IBM benefit from the creative use of Enterprise Design Thinking and feel invigorated by the project. Several students have gained accreditation with EDT badges including the Team Essentials for AI course. Projects students complete are great candidates for the promotion of IBM at events and exhibitions.&lt;/p&gt;
+&lt;p&gt;This page describes the work I have done as mentor on the MA Creative Direction course at Southampton Solent University.&lt;/p&gt;
+&lt;h2 id=&quot;mentoring&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#mentoring&quot; aria-label=&quot;mentoring permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Mentoring&lt;/h2&gt;
+&lt;p&gt;As a mentor to a MA Creative Direction for Fashion and Beauty student, I’ve had a variety of experiences:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Introducing to design tools.&lt;/strong&gt; Particularly with the effect of the Covid-19 outbreak, I’ve introduced my Mentee to a variety of design tools including Sketch, Marvel, and Mural.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enterprise Design Thinking education.&lt;/strong&gt; Explaining design thinking methods in a business-relevant way has been a core role. Ensuring the student can balance the profitability of their idea while meeting real user needs has been an enduring theme of the whole semester.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introducing a design workflow.&lt;/strong&gt; The progression from a to-be scenario, that details the success of the target user (with the proposed solution), to an application workflow in a wireframe, proved to be a contentious point in several students’ semesters. I managed this remotely in a Mural and worked with my student to tell the user’s story in words, then extract the actions at each stage, and construct wireframes from these actions. Other mentors adopted this strategy too.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Introducing Information Hierarchy.&lt;/strong&gt; This was a challenging item to introduce - and I started with a pedagogic statement that it needed doing. Once the student appreciated the condensation of menu items and navigation, its value was clear, but I’d like to introduce this differently in future, perhaps by suggesting a critique of the student’s chosen brand navigation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Giving a crash course in usability testing.&lt;/strong&gt; Establishing context with the participant, recording results, and improving testing quality were all subjects we spoke about. I encouraged the student to document her research plans as well as her outcomes in her write-ups.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project direction.&lt;/strong&gt; Encouraging the student to push the project in the direction they feel is valuable. With so many things to research, read up on, prototype, create and document, I feel that the most valuable addition I make as mentor is to encourage the student to achieve and create the things that would secure their projects’ future. As such, I’ve encouraged her to take a dragons’ den mindset, and made the Business Model Canvas avaialable as a tool for balancing all the financial, technical and design compoents of the project.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[COVID-19 design challenge]]></title><description><![CDATA[Our COVID-19 challenge group armed 3 industry professionals with the Enterprise Design Thinking skills to take a start-up acceleration platform to market.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/covid-19-challenge</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/covid-19-challenge</guid><pubDate>Wed, 01 Apr 2020 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;project-description&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#project-description&quot; aria-label=&quot;project description permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Project description&lt;/h2&gt;
 &lt;p&gt;The COVID-19 challenge was set up by IBM in partnership with the World Design Organisation to target one of 180 challenge statements that had been generated across the globe. You can read about the challenge and see other design responses to COVID-19 on the &lt;a href=&quot;https://wdo.org/covid19/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;World Design Organisation&lt;/a&gt; page.
 In an entirely remote Europe/Africa team, I contributed to design thinking activities on a provided &lt;strong&gt;How Might We&lt;/strong&gt; question over the course of a week.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -402,291 +1104,7 @@ I received some really positive feedback on my coaching from the participants I 
 		&lt;/footer&gt;
 	&lt;/blockquote&gt;
 &lt;/figure&gt;  
-&lt;p&gt;In future workshops, I’ll be sure never to neglect the introduction of Enterprise Design Thinking principles, consider whether task research is needed before attempting scenarios (as well as persona validation), and I’ll consider introducing stimulus for bigger ideas in ideation.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Design thinking for Fashion Students at Southampton Solent University]]></title><description><![CDATA[IBM comprises a huge range of products with experiences for many different user roles. One of the ways that we ensure high quality and consistent interfaces is with Designed User Experience reviews. I really enjoy being a member of the reviewing panel, and feel that it's a great way to learn about different user problems. I get to meet lots and lots of design and product teams, all over the world, too!]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/southampton-solent</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/southampton-solent</guid><pubDate>Wed, 01 Apr 2020 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;I’m involved as mentor and coordinator of the Creative Direction brief on the Southamptopn Solent MA Creative Direction for Fashion and Beauty course.
-MA Creative direction for Fashion and Beauty is one of the most popular postgraduate courses on offer at Southampton Solent University. The university is located less than 10 miles from IBM Hursley and we enjoy a long-running relationship with students who undertake the “IBM Technology” brief as part of their Creative Direction module.  &lt;/p&gt;
-&lt;p&gt;The course information page can be accessed &lt;a href=&quot;&quot;&gt;here&lt;/a&gt;.  &lt;/p&gt;
-&lt;p&gt;Students study creative direction from fashion and beauty backgrounds with the aim of extending their practice into creative direction roles for brands, media, and more. The creative direction module that IBM is involved with allows students to self-direct a project which interacts with an IBM technology, using newly acquired design thinking skills which we introduce in the first semester. A combination of design thinking, user-centred design, business of design, and technology skills are encouraged through the year in informal lectures and mentoring relationships.  &lt;/p&gt;
-&lt;p&gt;As &lt;strong&gt;coordinator&lt;/strong&gt; I work with the course leader and other IBMers to structure the support and partnership we offer to students. This is a role I took on in January 2020.
-As &lt;strong&gt;mentor&lt;/strong&gt; I provide 1:1 support to a single student through the duration of their second semester.  &lt;/p&gt;
-&lt;h2 id=&quot;coordination&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#coordination&quot; aria-label=&quot;coordination permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Coordination&lt;/h2&gt;
-&lt;p&gt;Coordinating the IBM Technology brief for the MA students is a really enjoyable activity.
-It’s refreshing for several reasons:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Students aren’t from technology, design, or business backgrounds. With experience typically in fashion or beauty, almost all of the skills we use as IBMers are new to the students, and it reminds me to make Enterprise Design Thinking, design, and technology as accessible as possible.&lt;/li&gt;
-&lt;li&gt;Students aren’t learning to be designers. Typically our outreach roles involve existing or aspiring designers. The creative director isn’t a role we often (or ever!) interact with, so seeing how students adopt our tools and methods is always new and inspiring.&lt;/li&gt;
-&lt;li&gt;The brief is very open to interpretation. Without specific deliverables required, the module emphasis is on documenting creative decisions and learning. This means that we get to enjoy a huge variety in outcomes from advertising campaign mockups to app design prototypes to 3-dimensional product development.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;As project coordinator, I’ve enjoyed the following experiences in 2019/2020:&lt;/p&gt;
-&lt;h3 id=&quot;concept-reviews---december-2019&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#concept-reviews---december-2019&quot; aria-label=&quot;concept reviews   december 2019 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Concept reviews - December 2019&lt;/h3&gt;
-&lt;p&gt;In december of the students’ first semester, we met to watch a presentation on each concept and provide feedback. At this point, students are aware of a selection of IBM technologies they might consider, and of the principles and activities behind some Enterprise Design Thinking. In the presentation, we expect to see a user-need and initial concept played back. Then, we critiqued each student’s work so far. The adoption of design thinking I saw at this stage was really make-or-break - since the onus of choosing a user, building empathy, establishing pain points and ideation is all taken individually and in isolation. I enjoyed probing all this thinking they had done, and gently steering them back on track to creating user-centred outcomes. Concepts must be pitched either within or as an extension to an existing brand - which can make choosing a user or problem to start from really challenging.&lt;/p&gt;
-&lt;h4 id=&quot;evaluation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#evaluation&quot; aria-label=&quot;evaluation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Evaluation&lt;/h4&gt;
-&lt;p&gt;Evaluating the research and concepts of each student was really challenging, but essentially came down to how well we felt they’d taken the focus on empathy and real user insights to their brand of choice. Almost all students needed encouragement to go out and speak to real users. The majority of students managed to identify real user needs from what research they had done, and using Enterprise Design Thinking methods. The majority of the guidance and feedback we offered was on the IBM technology they should research, and how ambitious their concepts should be.&lt;/p&gt;
-&lt;h4 id=&quot;concept-development-presentations-and-mentor-matching&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#concept-development-presentations-and-mentor-matching&quot; aria-label=&quot;concept development presentations and mentor matching permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Concept development presentations and mentor matching&lt;/h4&gt;
-&lt;p&gt;Early in the students’ second semester we invite them to Hursley for a tour of the studio and to meet their mentors. I expected recruiting mentors to be challenging, but it proved to be really easy. On this day, students who chose to continue with the IBM brief and develop their concepts presented their projects so far. Working with the course director, we elected each student an IBM mentor and provided a level of feedback. I set up a slack channel and various support for mentors to ensure that we all offered a similar level of support through the rest of the year.&lt;/p&gt;
-&lt;h4 id=&quot;supporting-mentors&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#supporting-mentors&quot; aria-label=&quot;supporting mentors permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Supporting mentors&lt;/h4&gt;
-&lt;p&gt;Through the remainder of the project year I’ve liased with mentors and with the course director. As mentors all come from different IBM disciplines, we chat regularly about how the projects are shaped by us, how to maintain effective ‘mentor’ relationships, and share resources. The effect of the Covid-19 outbreak on the students has been really interesting, but I have been pleased to see mentors and students surpassing the expectations of their course lead consistently. The creativity of students in terms of adopting free online tools and communicating their design decisions in written documents has been really exciting.&lt;/p&gt;
-&lt;h4 id=&quot;business-impact&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#business-impact&quot; aria-label=&quot;business impact permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Business Impact&lt;/h4&gt;
-&lt;p&gt;Maintaining the partnership with a local university, even in a non-typical industry such as fashion, strengthens IBM’s contribution to the local community. Designers both within and outside of IBM benefit from the creative use of Enterprise Design Thinking and feel invigorated by the project. Several students have gained accreditation with EDT badges including the Team Essentials for AI course. Projects students complete are great candidates for the promotion of IBM at events and exhibitions.&lt;/p&gt;
-&lt;p&gt;This page describes the work I have done as mentor on the MA Creative Direction course at Southampton Solent University.&lt;/p&gt;
-&lt;h2 id=&quot;mentoring&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#mentoring&quot; aria-label=&quot;mentoring permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Mentoring&lt;/h2&gt;
-&lt;p&gt;As a mentor to a MA Creative Direction for Fashion and Beauty student, I’ve had a variety of experiences:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Introducing to design tools.&lt;/strong&gt; Particularly with the effect of the Covid-19 outbreak, I’ve introduced my Mentee to a variety of design tools including Sketch, Marvel, and Mural.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Enterprise Design Thinking education.&lt;/strong&gt; Explaining design thinking methods in a business-relevant way has been a core role. Ensuring the student can balance the profitability of their idea while meeting real user needs has been an enduring theme of the whole semester.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Introducing a design workflow.&lt;/strong&gt; The progression from a to-be scenario, that details the success of the target user (with the proposed solution), to an application workflow in a wireframe, proved to be a contentious point in several students’ semesters. I managed this remotely in a Mural and worked with my student to tell the user’s story in words, then extract the actions at each stage, and construct wireframes from these actions. Other mentors adopted this strategy too.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Introducing Information Hierarchy.&lt;/strong&gt; This was a challenging item to introduce - and I started with a pedagogic statement that it needed doing. Once the student appreciated the condensation of menu items and navigation, its value was clear, but I’d like to introduce this differently in future, perhaps by suggesting a critique of the student’s chosen brand navigation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Giving a crash course in usability testing.&lt;/strong&gt; Establishing context with the participant, recording results, and improving testing quality were all subjects we spoke about. I encouraged the student to document her research plans as well as her outcomes in her write-ups.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Project direction.&lt;/strong&gt; Encouraging the student to push the project in the direction they feel is valuable. With so many things to research, read up on, prototype, create and document, I feel that the most valuable addition I make as mentor is to encourage the student to achieve and create the things that would secure their projects’ future. As such, I’ve encouraged her to take a dragons’ den mindset, and made the Business Model Canvas avaialable as a tool for balancing all the financial, technical and design compoents of the project.&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Getting started in IBM Event Streams]]></title><description><![CDATA[Messages travelling through, are the core of the Event Streams (Kafka) concept. Following user feedback that our message browser consumed a lot of resources, we redesigned it to achieve the same value in a much lighter way.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/GettingstartedES</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/GettingstartedES</guid><pubDate>Sat, 01 Feb 2020 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;what-is-ibm-event-streams&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#what-is-ibm-event-streams&quot; aria-label=&quot;what is ibm event streams permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is IBM Event Streams?&lt;/h2&gt;
-&lt;p&gt;IBM Event Streams is IBM’s Apache Kafka offering. Apache Kafka is an immensely popular open source messaging software which was released by the Apache foundation in 2011. The Event Streams team provide Kafka as enterprise software (on-premise) and as a service (SaaS) with add fully supported capabilities such as an award-winning UI, schema registry, REST API and connector library.&lt;/p&gt;
-&lt;h3 id=&quot;my-role&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#my-role&quot; aria-label=&quot;my role permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;My role&lt;/h3&gt;
-&lt;p&gt;User Experience Designer&lt;/p&gt;
-&lt;h3 id=&quot;objectives&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#objectives&quot; aria-label=&quot;objectives permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Objectives&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Enable IT Administrators and Developers to connect their applications with Event Streams.&lt;/li&gt;
-&lt;li&gt;Maintain a current User Experience within the IBM Design Language that is consistent with other IBM products.&lt;/li&gt;
-&lt;li&gt;Plan the future of Event Streams and organise the Event Streams roadmap competitively.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&quot;summary&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#summary&quot; aria-label=&quot;summary permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Summary&lt;/h3&gt;
-&lt;p&gt;Getting started with Kafka isn’t typically a pretty sight. When the product’s value is getting messages moving from one IT system to another, users struggle to find a way to &lt;strong&gt;see&lt;/strong&gt; Kafka working. The way that Event Streams helps these new users achieve their first bit of value is by providing a starter application that connects to Event Streams - letting them see messages sent to and recieved from a Kafka topic before they connect their real apps and services.&lt;br&gt;
-When I joined the Event Streams team, the Starter App was in its’ first iteration. In my time on the team it had several new iterations - we added it to the Event Streams SaaS product, updated it to use the Carbon X design language, and made it compatible with other Kafka products, whether open source or competitor. THe experiences around the starter app also changed - following user feedback that our message browser consumed a lot of resources, we redesigned it to achieve the same value in a much lighter way.&lt;/p&gt;
-&lt;h3 id=&quot;what-was-the-getting-started-experience-like-to-begin-with&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#what-was-the-getting-started-experience-like-to-begin-with&quot; aria-label=&quot;what was the getting started experience like to begin with permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What was the getting started experience like to begin with?&lt;/h3&gt;
-&lt;p&gt;First, the user navigated to the starter application page and specified the name they’d refer to their application by, and the Event Streams “topic” it should be connected to. &lt;/p&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 49.21875%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/_1Expx0C7fg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;There were some issues with these interactions:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The call to action on launch and within the first page were “Generate application” - which didn’t align with the users’ task of “get to know Event Streams”&lt;/li&gt;
-&lt;li&gt;Users who were new to Kafka weren’t introduced to applications or topics, or what they did, before they had to work with them&lt;/li&gt;
-&lt;li&gt;Asking users whether they wanted the application to produce, consume, or do both was neither explained nor often used&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Next, the user would wait for the starter application to be generated and download it. &lt;/p&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 49.21875%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/8jR5dH0emo8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;The issues with this interaction were:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;the countdown while the app was generated was not prominent enough&lt;/li&gt;
-&lt;li&gt;downloading a .zip file both interrupted the flow (as the user had to navigate to and unzip it)&lt;/li&gt;
-&lt;li&gt;users weren’t educated as to the contents of the .zip file; as an educational experience, the opportunity to educate users on the required properties and authentication methods was not used&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Finally, the user runs the command, waits for the application to start, opens the starter application and achieves their task of sending messages through a Kafka topic.&lt;/p&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/3EBjtWN5O2w?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;/iframe&gt; Issues we identified with this user flow: - Tool dependencies on Java and Maven were introduced late in the task, derailing users who didn&amp;apos;t have them installed - Users weren&amp;apos;t introduced to any of the Event Streams UI that they would use during productive use of the product - Users confused the starter application UI with the Event Streams tool UI because they both used the IBM Carbon design system - Users were left feeling &amp;quot;incomplete&amp;quot; or unsure whether they had finished (and achieved) their task &lt;/div&gt;
-&lt;h3 id=&quot;improvement-1-adopting-the-carbon-x-design-system&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#improvement-1-adopting-the-carbon-x-design-system&quot; aria-label=&quot;improvement 1 adopting the carbon x design system permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Improvement 1: Adopting the Carbon X design system&lt;/h3&gt;
-&lt;p&gt;Carbon, IBM’s design system launched a new language and style in 2019 which meant that we had the opportunity to revamp a lot of the Event Streams interface. While the Event Streams interface itself came first, in 2020 we got the opportunity to apply some changes to the Starter app interface itself. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The old app&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 49.21875%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/ltvuY1B4D14?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;The new app&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 49.21875%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/1In3F6KMd9U?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;Note the addition of “Newest” focal boxes to draw the users’ eye toward the most recent message either sent to or consumed from Event Streams.&lt;/li&gt;
-&lt;li&gt;Note the addition of motion blur to express that messages are moving dynamically, especially in low-frame-rate situations such as when captured on video or experiencing low-bandwidth.&lt;/li&gt;
-&lt;li&gt;We simplified the “custom payload” field and “start producing” buttons as we’d noticed that the original, large “play” button wasn’t always spotted.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;One really key improvement helped users distinguish from the Event Streams interface and the Starter App interface.&lt;br&gt;
-In the Event Streams interface, the content of a message is explored by opening a &lt;strong&gt;side panel&lt;/strong&gt; the right of the screen. This was originally also used in the start application interface. In this improvement work, we re-designed the interaction in the starter app to diverge from the Event Streams UI and expose more message details by opening a &lt;strong&gt;caret&lt;/strong&gt; instead. &lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/a82e6/ESStarterSidePanel-01.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAAC4jAAAuIwF4pT92AAACMklEQVQozz2S3W/SYBTGG5NF4kxGwgYFJh2s5aMlUKAUNgPjY26T8FGwmhj1xm0g6P28cWrMosuWeeGFf8tgfLX4N5iYTLfohTdLlI8OCgOPzHjyy5OTN++T55zkIKViEahVK9XKuMrlo9JhvVppiEJDFAFRFD41GhV4Lh5WK2VRqF8i1GvIl+Nj4OvJ92+nP87Ofh18+EjfjAZj6Uji7i3uYST1IJS4n3qUyxeehUJLsVgsmUykUsnV1ZWX2y+Qc1nuyrLU7fZkeTQavXq7j1xHJ/UWhQZXYU6FzjKhwbWkLxZPalHUaDRiGAY6o1ZvrD9GLoZDWe63O51urwfmN7sHE+r5adw5dYMkvSErG1JilMkT5DJ3wENRlMVisZGkAcOe5HJIT+5DKJg70vk4eW/OuWj3R6YMNpRgtI6w0ryAuQIZ/l4gEHDSNEEQFjOu16G5XBaRumDut1rtVrsN5tfv9lUmO+ULawhaZaQxX3qWSZjcYS7Du2gaYgmzmfYvE45APl9A5P5gMLj43WxB9qVZabCRbEhDuKbnaMi/piOMLhibJ3Cc+lv2hXDSzq4UCk8RMAxh7X4fgH57Z++q2jRrY5QGchIlFXrblRkcpfxJLsN4PD6fn2EY1uu2mvHs5gYC08LCkiQ1m62Tzz93dt/b2KXF5bjDHyW9USsbmXcH2eXU+mY2EY+n02mO43ieX1u7/XxrCxFqVaA+plw6AhXrNTgAUFEY67++/p/x/Qjw5w9tVCC0KLjsCgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/8ac56/ESStarterSidePanel-01.webp 240w,
-/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/d3be9/ESStarterSidePanel-01.webp 480w,
-/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/e46b2/ESStarterSidePanel-01.webp 960w,
-/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/f992d/ESStarterSidePanel-01.webp 1440w,
-/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/882b9/ESStarterSidePanel-01.webp 1920w,
-/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/3ceda/ESStarterSidePanel-01.webp 3334w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/8ff5a/ESStarterSidePanel-01.png 240w,
-/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/e85cb/ESStarterSidePanel-01.png 480w,
-/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/d9199/ESStarterSidePanel-01.png 960w,
-/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/07a9c/ESStarterSidePanel-01.png 1440w,
-/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/29114/ESStarterSidePanel-01.png 1920w,
-/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/a82e6/ESStarterSidePanel-01.png 3334w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/d9199/ESStarterSidePanel-01.png&quot;
-          alt=&quot;We evolved away from re-using the product UI message interaction in the starter app for differentiation&quot;
-          title=&quot;We evolved away from re-using the product UI message interaction in the starter app for differentiation&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&quot;improvement-2-open-sourcing-the-starter-app&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#improvement-2-open-sourcing-the-starter-app&quot; aria-label=&quot;improvement 2 open sourcing the starter app permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Improvement 2: Open-sourcing the starter app&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio/static/b0284d4606cbd92fab3545343c7910b7/f0971/ESOpenSourceStarterAppWhiteboard.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 80.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGpKFlmNg//xAAXEAEBAQEAAAAAAAAAAAAAAAAAEQEQ/9oACAEBAAEFAondR//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABgQAAMBAQAAAAAAAAAAAAAAAAABERBx/9oACAEBAAE/IWGJwgmP/9oADAMBAAIAAwAAABDzD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAECAQE/EEf/xAAbEAADAQADAQAAAAAAAAAAAAAAAREhQVGB8f/aAAgBAQABPxBdijKpcU1ak9JTzBPQmX0//9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/portfolio/static/b0284d4606cbd92fab3545343c7910b7/8ac56/ESOpenSourceStarterAppWhiteboard.webp 240w,
-/portfolio/static/b0284d4606cbd92fab3545343c7910b7/d3be9/ESOpenSourceStarterAppWhiteboard.webp 480w,
-/portfolio/static/b0284d4606cbd92fab3545343c7910b7/e46b2/ESOpenSourceStarterAppWhiteboard.webp 960w,
-/portfolio/static/b0284d4606cbd92fab3545343c7910b7/f992d/ESOpenSourceStarterAppWhiteboard.webp 1440w,
-/portfolio/static/b0284d4606cbd92fab3545343c7910b7/a31b9/ESOpenSourceStarterAppWhiteboard.webp 1618w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/portfolio/static/b0284d4606cbd92fab3545343c7910b7/09b79/ESOpenSourceStarterAppWhiteboard.jpg 240w,
-/portfolio/static/b0284d4606cbd92fab3545343c7910b7/7cc5e/ESOpenSourceStarterAppWhiteboard.jpg 480w,
-/portfolio/static/b0284d4606cbd92fab3545343c7910b7/6a068/ESOpenSourceStarterAppWhiteboard.jpg 960w,
-/portfolio/static/b0284d4606cbd92fab3545343c7910b7/644c5/ESOpenSourceStarterAppWhiteboard.jpg 1440w,
-/portfolio/static/b0284d4606cbd92fab3545343c7910b7/f0971/ESOpenSourceStarterAppWhiteboard.jpg 1618w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/portfolio/static/b0284d4606cbd92fab3545343c7910b7/6a068/ESOpenSourceStarterAppWhiteboard.jpg&quot;
-          alt=&quot;We whiteboarded the user journey of the new starter app&quot;
-          title=&quot;We whiteboarded the user journey of the new starter app&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Open-sourcing our starter app was not just a publicity stunt - re-architecting it would provide several user benefits:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Allow users to switch out the topic or instance of Event Streams the app was connected to&lt;/li&gt;
-&lt;li&gt;Allow users to inspect, understand and re-use the code in the Starter app&lt;/li&gt;
-&lt;li&gt;Allow non-Event Streams users to download the app direct from Github&lt;/li&gt;
-&lt;li&gt;Allow us to version the Starter app independently from the product&lt;/li&gt;
-&lt;li&gt;Allow users to understand the authentication methods both the starter app and their real apps would use&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio/static/a8edea98965eac6e428c344bb6297d0e/4ea1e/ESStarterAppNewInUI-02.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 89.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAIAAADUsmlHAAAACXBIWXMAAC4jAAAuIwF4pT92AAACe0lEQVQ4y3WTzU8TQRjG9yJ3uUk5WBpOSolEDUTYtv+FUiJKoaIRYbdUiMaDZ7miif+CIfFkYoyJMQa9VRMPKGhpu7vdZT9md7tfENv67C5sykcnTybv7sxv3neemaFerq+Pjo2lMxmanqBTKTqVplO0H9Ap/zuVngi//aFDpdOZG+PjL9bWqNWnz8/19FwfHR25eu3SUHIoeVzDJ3V5OHllZOR8b++jxUVq9cmzxOCgqhGzYWtEdxw7aBaCILYsq9Epw9Db7XYul3u4sEAVi8X4QEInmuc6VsMUBF4U66LfBMSEaCGPPpRpGoDz+fzSEkOxLHsxPqBpKvJg1Uplt1ar1rhatVqBEMvyXqNhRtJ1Anj67sz8/QcUw3TAOpFFzm4QzzFNTNMJ8nSSEXx7+k7+3jzFFgrxAR92XVvVtPefSx+//tws/eUESde10zAJ4MmpbG52lioUlgGrAbynkNdvf7za+L7+pvS7Inmu3S1zdmpqdm6OeryyEk8koj27Fsb22619z3MsWGX7DneFYVhYNmB4u/Vra3tnB0IH2+p1UZIkwzC6wpFhKFLgeaFel4K2JyuE6M0Dp9U8sM6EGZbt6+8HjDPEmOvt/2s2MdxqtdDLxN34VH63WSaGYZ2GlxjmQiwW7RlHzCM7j4IFWZZ2OfHDt+0vpbJ+VDk5hLNBZobti/mZneD2SCJqFlVVMYKGfzCv1fSisuEL4JuTkzM4qggOr56iaoqK89bAY56iKIZpBo6fBbNs4TCzY+u4njWO43lFkTEJPyEExy5JJ7y8XIwdwdhzufyH46rB26jjYWAVONQVRtkwDEWGz+3EfQqF7URCGsC3Avg/n48pJcLVhu8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/portfolio/static/a8edea98965eac6e428c344bb6297d0e/8ac56/ESStarterAppNewInUI-02.webp 240w,
-/portfolio/static/a8edea98965eac6e428c344bb6297d0e/d3be9/ESStarterAppNewInUI-02.webp 480w,
-/portfolio/static/a8edea98965eac6e428c344bb6297d0e/e46b2/ESStarterAppNewInUI-02.webp 960w,
-/portfolio/static/a8edea98965eac6e428c344bb6297d0e/f992d/ESStarterAppNewInUI-02.webp 1440w,
-/portfolio/static/a8edea98965eac6e428c344bb6297d0e/882b9/ESStarterAppNewInUI-02.webp 1920w,
-/portfolio/static/a8edea98965eac6e428c344bb6297d0e/248bc/ESStarterAppNewInUI-02.webp 2667w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/portfolio/static/a8edea98965eac6e428c344bb6297d0e/8ff5a/ESStarterAppNewInUI-02.png 240w,
-/portfolio/static/a8edea98965eac6e428c344bb6297d0e/e85cb/ESStarterAppNewInUI-02.png 480w,
-/portfolio/static/a8edea98965eac6e428c344bb6297d0e/d9199/ESStarterAppNewInUI-02.png 960w,
-/portfolio/static/a8edea98965eac6e428c344bb6297d0e/07a9c/ESStarterAppNewInUI-02.png 1440w,
-/portfolio/static/a8edea98965eac6e428c344bb6297d0e/29114/ESStarterAppNewInUI-02.png 1920w,
-/portfolio/static/a8edea98965eac6e428c344bb6297d0e/4ea1e/ESStarterAppNewInUI-02.png 2667w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/portfolio/static/a8edea98965eac6e428c344bb6297d0e/d9199/ESStarterAppNewInUI-02.png&quot;
-          alt=&quot;New starter app page mockups&quot;
-          title=&quot;New starter app page mockups&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;We knew that the starter app flow would be more complicated with its’ new home on Github, so we kept these screens, and the terminal screens in context with all of our mockups and explorations.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio/static/092fc154e6cf88e25629e111fb4bd042/a82e6/ESStarterAppJourney-03.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 27.916666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAIAAABM9SnKAAAACXBIWXMAAC4jAAAuIwF4pT92AAABUElEQVQY02NgYGLi5Re4cu3a1WvXvXx8GBgYePj4uHi4uXh42Dg4kBEHF5egsDCQZGFjY2ZlBSKGtIzMgsKiPXv3HD5ypKGxKTIqCmgECHn7xMbHx8YBAYhMSEz09fcXl5AICAxKz8jIzs3Nzsll6Ouf0D9x8rmz53bu2Llq9ZrHj5+sXLV6w8bN69Zv/Pb9+8tXry6BweMnTzZu2iQiKnr8xMnLV660d3ROmjyZAegGVnZ2fkEBoJNExMTkFRVFxcWALhcQFDSztHRycfHw9HT39PDx87Ozt+fl53dwcjI0NmZkYgLqYhASEZGQkqqrq3NydubkBnnV3MKqoLA4MTk5NjLKz8eXjZMTKA70KlBKWFQUSAKNFhUXFxUTY+AXFJSUln706FFeQT4wDPgEBFzdPXp6+xqbmztqassKCgSEhYHqRMAIaBNQPxABGUAEANeVaRh/js2lAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/portfolio/static/092fc154e6cf88e25629e111fb4bd042/8ac56/ESStarterAppJourney-03.webp 240w,
-/portfolio/static/092fc154e6cf88e25629e111fb4bd042/d3be9/ESStarterAppJourney-03.webp 480w,
-/portfolio/static/092fc154e6cf88e25629e111fb4bd042/e46b2/ESStarterAppJourney-03.webp 960w,
-/portfolio/static/092fc154e6cf88e25629e111fb4bd042/f992d/ESStarterAppJourney-03.webp 1440w,
-/portfolio/static/092fc154e6cf88e25629e111fb4bd042/882b9/ESStarterAppJourney-03.webp 1920w,
-/portfolio/static/092fc154e6cf88e25629e111fb4bd042/3ceda/ESStarterAppJourney-03.webp 3334w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/portfolio/static/092fc154e6cf88e25629e111fb4bd042/8ff5a/ESStarterAppJourney-03.png 240w,
-/portfolio/static/092fc154e6cf88e25629e111fb4bd042/e85cb/ESStarterAppJourney-03.png 480w,
-/portfolio/static/092fc154e6cf88e25629e111fb4bd042/d9199/ESStarterAppJourney-03.png 960w,
-/portfolio/static/092fc154e6cf88e25629e111fb4bd042/07a9c/ESStarterAppJourney-03.png 1440w,
-/portfolio/static/092fc154e6cf88e25629e111fb4bd042/29114/ESStarterAppJourney-03.png 1920w,
-/portfolio/static/092fc154e6cf88e25629e111fb4bd042/a82e6/ESStarterAppJourney-03.png 3334w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/png&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/portfolio/static/092fc154e6cf88e25629e111fb4bd042/d9199/ESStarterAppJourney-03.png&quot;
-          alt=&quot;We worked Github Screens and terminal actions through all of our mockups&quot;
-          title=&quot;We worked Github Screens and terminal actions through all of our mockups&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;The new flow now:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;exposes the user to the kafka.properties file which they can edit to reuse the starter app with other instances of Kafka/Event Streams&lt;/li&gt;
-&lt;li&gt;allows the user to go to a friendly “releases” page on Github, and interact with more code via Github should they choose&lt;/li&gt;
-&lt;li&gt;Includes the whole Starter Application flow on one page, so that users know what to expect, and can jump ahead if they’ve done parts before&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/MRGZZ2Vt01w?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;/iframe&gt; &lt;/div&gt;
-&lt;p&gt;Finall, the starter app page now directs users to inspect their topic inside the Event Streams UI - so that their final learning moment teaches them how they’ll interact with real topics and apps in productive use of Event Streams. &lt;/p&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/TmL8dyCOJug&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Sprinting on a Hello World experience]]></title><description><![CDATA[We applied the design sprint format exploring a Hello World experience of an Integration developer using the Cloud Pak for Integration.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/sprinting-on-hello-world</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/sprinting-on-hello-world</guid><pubDate>Sat, 01 Feb 2020 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;summary&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#summary&quot; aria-label=&quot;summary permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Summary&lt;/h2&gt;
+&lt;p&gt;In future workshops, I’ll be sure never to neglect the introduction of Enterprise Design Thinking principles, consider whether task research is needed before attempting scenarios (as well as persona validation), and I’ll consider introducing stimulus for bigger ideas in ideation.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Sprinting on a Hello World experience]]></title><description><![CDATA[We applied the design sprint format exploring a Hello World experience of an Integration developer using the Cloud Pak for Integration.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/sprinting-on-hello-world</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/sprinting-on-hello-world</guid><pubDate>Sat, 01 Feb 2020 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;summary&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#summary&quot; aria-label=&quot;summary permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Summary&lt;/h2&gt;
 &lt;p&gt;We applied the design sprint format exploring a Hello World experience of an Integration developer using the Cloud Pak for Integration.&lt;/p&gt;
 &lt;h2 id=&quot;preparation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#preparation&quot; aria-label=&quot;preparation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Preparation&lt;/h2&gt;
 &lt;p&gt;Some great research was carried out between team members, that found a huge variety in the definition of both Hello World and other terms for new user experiences. Some terms were specific to the time in which the user’s experience was happening (onboarding, guided tour, getting started, first use) while others performed functions.&lt;/p&gt;
@@ -969,7 +1387,256 @@ Our stakeholders formed most of our sudo-users, and had some great feedback, so 
 			&lt;cite&gt;- stakeholder feedback&lt;/cite&gt;
 		&lt;/footer&gt;
 	&lt;/blockquote&gt;
-&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Design sprinting on Georeplication]]></title><description><![CDATA[Running a week-long design sprint using the Google Ventures format was really educational, and taught me a lot about facilitation. It also triggered a lot of questions about how we schedule our work items through the quarters and releases.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/sprinting-on-georeplication</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/sprinting-on-georeplication</guid><pubDate>Fri, 01 Nov 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;what-is-ibm-event-streams&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#what-is-ibm-event-streams&quot; aria-label=&quot;what is ibm event streams permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is IBM Event Streams?&lt;/h2&gt;
+&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Getting started in IBM Event Streams]]></title><description><![CDATA[Messages travelling through, are the core of the Event Streams (Kafka) concept. Following user feedback that our message browser consumed a lot of resources, we redesigned it to achieve the same value in a much lighter way.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/GettingstartedES</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/GettingstartedES</guid><pubDate>Sat, 01 Feb 2020 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;what-is-ibm-event-streams&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#what-is-ibm-event-streams&quot; aria-label=&quot;what is ibm event streams permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is IBM Event Streams?&lt;/h2&gt;
+&lt;p&gt;IBM Event Streams is IBM’s Apache Kafka offering. Apache Kafka is an immensely popular open source messaging software which was released by the Apache foundation in 2011. The Event Streams team provide Kafka as enterprise software (on-premise) and as a service (SaaS) with add fully supported capabilities such as an award-winning UI, schema registry, REST API and connector library.&lt;/p&gt;
+&lt;h3 id=&quot;my-role&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#my-role&quot; aria-label=&quot;my role permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;My role&lt;/h3&gt;
+&lt;p&gt;User Experience Designer&lt;/p&gt;
+&lt;h3 id=&quot;objectives&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#objectives&quot; aria-label=&quot;objectives permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Objectives&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Enable IT Administrators and Developers to connect their applications with Event Streams.&lt;/li&gt;
+&lt;li&gt;Maintain a current User Experience within the IBM Design Language that is consistent with other IBM products.&lt;/li&gt;
+&lt;li&gt;Plan the future of Event Streams and organise the Event Streams roadmap competitively.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;summary&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#summary&quot; aria-label=&quot;summary permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Summary&lt;/h3&gt;
+&lt;p&gt;Getting started with Kafka isn’t typically a pretty sight. When the product’s value is getting messages moving from one IT system to another, users struggle to find a way to &lt;strong&gt;see&lt;/strong&gt; Kafka working. The way that Event Streams helps these new users achieve their first bit of value is by providing a starter application that connects to Event Streams - letting them see messages sent to and recieved from a Kafka topic before they connect their real apps and services.&lt;br&gt;
+When I joined the Event Streams team, the Starter App was in its’ first iteration. In my time on the team it had several new iterations - we added it to the Event Streams SaaS product, updated it to use the Carbon X design language, and made it compatible with other Kafka products, whether open source or competitor. THe experiences around the starter app also changed - following user feedback that our message browser consumed a lot of resources, we redesigned it to achieve the same value in a much lighter way.&lt;/p&gt;
+&lt;h3 id=&quot;what-was-the-getting-started-experience-like-to-begin-with&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#what-was-the-getting-started-experience-like-to-begin-with&quot; aria-label=&quot;what was the getting started experience like to begin with permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What was the getting started experience like to begin with?&lt;/h3&gt;
+&lt;p&gt;First, the user navigated to the starter application page and specified the name they’d refer to their application by, and the Event Streams “topic” it should be connected to. &lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 49.21875%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/_1Expx0C7fg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;There were some issues with these interactions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The call to action on launch and within the first page were “Generate application” - which didn’t align with the users’ task of “get to know Event Streams”&lt;/li&gt;
+&lt;li&gt;Users who were new to Kafka weren’t introduced to applications or topics, or what they did, before they had to work with them&lt;/li&gt;
+&lt;li&gt;Asking users whether they wanted the application to produce, consume, or do both was neither explained nor often used&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Next, the user would wait for the starter application to be generated and download it. &lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 49.21875%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/8jR5dH0emo8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;The issues with this interaction were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the countdown while the app was generated was not prominent enough&lt;/li&gt;
+&lt;li&gt;downloading a .zip file both interrupted the flow (as the user had to navigate to and unzip it)&lt;/li&gt;
+&lt;li&gt;users weren’t educated as to the contents of the .zip file; as an educational experience, the opportunity to educate users on the required properties and authentication methods was not used&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, the user runs the command, waits for the application to start, opens the starter application and achieves their task of sending messages through a Kafka topic.&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/3EBjtWN5O2w?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;/iframe&gt; Issues we identified with this user flow: - Tool dependencies on Java and Maven were introduced late in the task, derailing users who didn&amp;apos;t have them installed - Users weren&amp;apos;t introduced to any of the Event Streams UI that they would use during productive use of the product - Users confused the starter application UI with the Event Streams tool UI because they both used the IBM Carbon design system - Users were left feeling &amp;quot;incomplete&amp;quot; or unsure whether they had finished (and achieved) their task &lt;/div&gt;
+&lt;h3 id=&quot;improvement-1-adopting-the-carbon-x-design-system&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#improvement-1-adopting-the-carbon-x-design-system&quot; aria-label=&quot;improvement 1 adopting the carbon x design system permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Improvement 1: Adopting the Carbon X design system&lt;/h3&gt;
+&lt;p&gt;Carbon, IBM’s design system launched a new language and style in 2019 which meant that we had the opportunity to revamp a lot of the Event Streams interface. While the Event Streams interface itself came first, in 2020 we got the opportunity to apply some changes to the Starter app interface itself. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The old app&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 49.21875%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/ltvuY1B4D14?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;The new app&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 49.21875%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/1In3F6KMd9U?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Note the addition of “Newest” focal boxes to draw the users’ eye toward the most recent message either sent to or consumed from Event Streams.&lt;/li&gt;
+&lt;li&gt;Note the addition of motion blur to express that messages are moving dynamically, especially in low-frame-rate situations such as when captured on video or experiencing low-bandwidth.&lt;/li&gt;
+&lt;li&gt;We simplified the “custom payload” field and “start producing” buttons as we’d noticed that the original, large “play” button wasn’t always spotted.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One really key improvement helped users distinguish from the Event Streams interface and the Starter App interface.&lt;br&gt;
+In the Event Streams interface, the content of a message is explored by opening a &lt;strong&gt;side panel&lt;/strong&gt; the right of the screen. This was originally also used in the start application interface. In this improvement work, we re-designed the interaction in the starter app to diverge from the Event Streams UI and expose more message details by opening a &lt;strong&gt;caret&lt;/strong&gt; instead. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/a82e6/ESStarterSidePanel-01.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAAC4jAAAuIwF4pT92AAACMklEQVQozz2S3W/SYBTGG5NF4kxGwgYFJh2s5aMlUKAUNgPjY26T8FGwmhj1xm0g6P28cWrMosuWeeGFf8tgfLX4N5iYTLfohTdLlI8OCgOPzHjyy5OTN++T55zkIKViEahVK9XKuMrlo9JhvVppiEJDFAFRFD41GhV4Lh5WK2VRqF8i1GvIl+Nj4OvJ92+nP87Ofh18+EjfjAZj6Uji7i3uYST1IJS4n3qUyxeehUJLsVgsmUykUsnV1ZWX2y+Qc1nuyrLU7fZkeTQavXq7j1xHJ/UWhQZXYU6FzjKhwbWkLxZPalHUaDRiGAY6o1ZvrD9GLoZDWe63O51urwfmN7sHE+r5adw5dYMkvSErG1JilMkT5DJ3wENRlMVisZGkAcOe5HJIT+5DKJg70vk4eW/OuWj3R6YMNpRgtI6w0ryAuQIZ/l4gEHDSNEEQFjOu16G5XBaRumDut1rtVrsN5tfv9lUmO+ULawhaZaQxX3qWSZjcYS7Du2gaYgmzmfYvE45APl9A5P5gMLj43WxB9qVZabCRbEhDuKbnaMi/piOMLhibJ3Cc+lv2hXDSzq4UCk8RMAxh7X4fgH57Z++q2jRrY5QGchIlFXrblRkcpfxJLsN4PD6fn2EY1uu2mvHs5gYC08LCkiQ1m62Tzz93dt/b2KXF5bjDHyW9USsbmXcH2eXU+mY2EY+n02mO43ieX1u7/XxrCxFqVaA+plw6AhXrNTgAUFEY67++/p/x/Qjw5w9tVCC0KLjsCgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/8ac56/ESStarterSidePanel-01.webp 240w,
+/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/d3be9/ESStarterSidePanel-01.webp 480w,
+/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/e46b2/ESStarterSidePanel-01.webp 960w,
+/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/f992d/ESStarterSidePanel-01.webp 1440w,
+/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/882b9/ESStarterSidePanel-01.webp 1920w,
+/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/3ceda/ESStarterSidePanel-01.webp 3334w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/8ff5a/ESStarterSidePanel-01.png 240w,
+/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/e85cb/ESStarterSidePanel-01.png 480w,
+/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/d9199/ESStarterSidePanel-01.png 960w,
+/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/07a9c/ESStarterSidePanel-01.png 1440w,
+/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/29114/ESStarterSidePanel-01.png 1920w,
+/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/a82e6/ESStarterSidePanel-01.png 3334w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/7f3ef59d015038d9d48fc6b81669df1c/d9199/ESStarterSidePanel-01.png&quot;
+          alt=&quot;We evolved away from re-using the product UI message interaction in the starter app for differentiation&quot;
+          title=&quot;We evolved away from re-using the product UI message interaction in the starter app for differentiation&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;improvement-2-open-sourcing-the-starter-app&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#improvement-2-open-sourcing-the-starter-app&quot; aria-label=&quot;improvement 2 open sourcing the starter app permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Improvement 2: Open-sourcing the starter app&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/b0284d4606cbd92fab3545343c7910b7/f0971/ESOpenSourceStarterAppWhiteboard.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 80.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGpKFlmNg//xAAXEAEBAQEAAAAAAAAAAAAAAAAAEQEQ/9oACAEBAAEFAondR//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABgQAAMBAQAAAAAAAAAAAAAAAAABERBx/9oACAEBAAE/IWGJwgmP/9oADAMBAAIAAwAAABDzD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAECAQE/EEf/xAAbEAADAQADAQAAAAAAAAAAAAAAAREhQVGB8f/aAAgBAQABPxBdijKpcU1ak9JTzBPQmX0//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/b0284d4606cbd92fab3545343c7910b7/8ac56/ESOpenSourceStarterAppWhiteboard.webp 240w,
+/portfolio/static/b0284d4606cbd92fab3545343c7910b7/d3be9/ESOpenSourceStarterAppWhiteboard.webp 480w,
+/portfolio/static/b0284d4606cbd92fab3545343c7910b7/e46b2/ESOpenSourceStarterAppWhiteboard.webp 960w,
+/portfolio/static/b0284d4606cbd92fab3545343c7910b7/f992d/ESOpenSourceStarterAppWhiteboard.webp 1440w,
+/portfolio/static/b0284d4606cbd92fab3545343c7910b7/a31b9/ESOpenSourceStarterAppWhiteboard.webp 1618w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/b0284d4606cbd92fab3545343c7910b7/09b79/ESOpenSourceStarterAppWhiteboard.jpg 240w,
+/portfolio/static/b0284d4606cbd92fab3545343c7910b7/7cc5e/ESOpenSourceStarterAppWhiteboard.jpg 480w,
+/portfolio/static/b0284d4606cbd92fab3545343c7910b7/6a068/ESOpenSourceStarterAppWhiteboard.jpg 960w,
+/portfolio/static/b0284d4606cbd92fab3545343c7910b7/644c5/ESOpenSourceStarterAppWhiteboard.jpg 1440w,
+/portfolio/static/b0284d4606cbd92fab3545343c7910b7/f0971/ESOpenSourceStarterAppWhiteboard.jpg 1618w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/b0284d4606cbd92fab3545343c7910b7/6a068/ESOpenSourceStarterAppWhiteboard.jpg&quot;
+          alt=&quot;We whiteboarded the user journey of the new starter app&quot;
+          title=&quot;We whiteboarded the user journey of the new starter app&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Open-sourcing our starter app was not just a publicity stunt - re-architecting it would provide several user benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Allow users to switch out the topic or instance of Event Streams the app was connected to&lt;/li&gt;
+&lt;li&gt;Allow users to inspect, understand and re-use the code in the Starter app&lt;/li&gt;
+&lt;li&gt;Allow non-Event Streams users to download the app direct from Github&lt;/li&gt;
+&lt;li&gt;Allow us to version the Starter app independently from the product&lt;/li&gt;
+&lt;li&gt;Allow users to understand the authentication methods both the starter app and their real apps would use&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/a8edea98965eac6e428c344bb6297d0e/4ea1e/ESStarterAppNewInUI-02.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 89.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAIAAADUsmlHAAAACXBIWXMAAC4jAAAuIwF4pT92AAACe0lEQVQ4y3WTzU8TQRjG9yJ3uUk5WBpOSolEDUTYtv+FUiJKoaIRYbdUiMaDZ7miif+CIfFkYoyJMQa9VRMPKGhpu7vdZT9md7tfENv67C5sykcnTybv7sxv3neemaFerq+Pjo2lMxmanqBTKTqVplO0H9Ap/zuVngi//aFDpdOZG+PjL9bWqNWnz8/19FwfHR25eu3SUHIoeVzDJ3V5OHllZOR8b++jxUVq9cmzxOCgqhGzYWtEdxw7aBaCILYsq9Epw9Db7XYul3u4sEAVi8X4QEInmuc6VsMUBF4U66LfBMSEaCGPPpRpGoDz+fzSEkOxLHsxPqBpKvJg1Uplt1ar1rhatVqBEMvyXqNhRtJ1Anj67sz8/QcUw3TAOpFFzm4QzzFNTNMJ8nSSEXx7+k7+3jzFFgrxAR92XVvVtPefSx+//tws/eUESde10zAJ4MmpbG52lioUlgGrAbynkNdvf7za+L7+pvS7Inmu3S1zdmpqdm6OeryyEk8koj27Fsb22619z3MsWGX7DneFYVhYNmB4u/Vra3tnB0IH2+p1UZIkwzC6wpFhKFLgeaFel4K2JyuE6M0Dp9U8sM6EGZbt6+8HjDPEmOvt/2s2MdxqtdDLxN34VH63WSaGYZ2GlxjmQiwW7RlHzCM7j4IFWZZ2OfHDt+0vpbJ+VDk5hLNBZobti/mZneD2SCJqFlVVMYKGfzCv1fSisuEL4JuTkzM4qggOr56iaoqK89bAY56iKIZpBo6fBbNs4TCzY+u4njWO43lFkTEJPyEExy5JJ7y8XIwdwdhzufyH46rB26jjYWAVONQVRtkwDEWGz+3EfQqF7URCGsC3Avg/n48pJcLVhu8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/a8edea98965eac6e428c344bb6297d0e/8ac56/ESStarterAppNewInUI-02.webp 240w,
+/portfolio/static/a8edea98965eac6e428c344bb6297d0e/d3be9/ESStarterAppNewInUI-02.webp 480w,
+/portfolio/static/a8edea98965eac6e428c344bb6297d0e/e46b2/ESStarterAppNewInUI-02.webp 960w,
+/portfolio/static/a8edea98965eac6e428c344bb6297d0e/f992d/ESStarterAppNewInUI-02.webp 1440w,
+/portfolio/static/a8edea98965eac6e428c344bb6297d0e/882b9/ESStarterAppNewInUI-02.webp 1920w,
+/portfolio/static/a8edea98965eac6e428c344bb6297d0e/248bc/ESStarterAppNewInUI-02.webp 2667w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/a8edea98965eac6e428c344bb6297d0e/8ff5a/ESStarterAppNewInUI-02.png 240w,
+/portfolio/static/a8edea98965eac6e428c344bb6297d0e/e85cb/ESStarterAppNewInUI-02.png 480w,
+/portfolio/static/a8edea98965eac6e428c344bb6297d0e/d9199/ESStarterAppNewInUI-02.png 960w,
+/portfolio/static/a8edea98965eac6e428c344bb6297d0e/07a9c/ESStarterAppNewInUI-02.png 1440w,
+/portfolio/static/a8edea98965eac6e428c344bb6297d0e/29114/ESStarterAppNewInUI-02.png 1920w,
+/portfolio/static/a8edea98965eac6e428c344bb6297d0e/4ea1e/ESStarterAppNewInUI-02.png 2667w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/a8edea98965eac6e428c344bb6297d0e/d9199/ESStarterAppNewInUI-02.png&quot;
+          alt=&quot;New starter app page mockups&quot;
+          title=&quot;New starter app page mockups&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We knew that the starter app flow would be more complicated with its’ new home on Github, so we kept these screens, and the terminal screens in context with all of our mockups and explorations.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/portfolio/static/092fc154e6cf88e25629e111fb4bd042/a82e6/ESStarterAppJourney-03.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 27.916666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAIAAABM9SnKAAAACXBIWXMAAC4jAAAuIwF4pT92AAABUElEQVQY02NgYGLi5Re4cu3a1WvXvXx8GBgYePj4uHi4uXh42Dg4kBEHF5egsDCQZGFjY2ZlBSKGtIzMgsKiPXv3HD5ypKGxKTIqCmgECHn7xMbHx8YBAYhMSEz09fcXl5AICAxKz8jIzs3Nzsll6Ouf0D9x8rmz53bu2Llq9ZrHj5+sXLV6w8bN69Zv/Pb9+8tXry6BweMnTzZu2iQiKnr8xMnLV660d3ROmjyZAegGVnZ2fkEBoJNExMTkFRVFxcWALhcQFDSztHRycfHw9HT39PDx87Ozt+fl53dwcjI0NmZkYgLqYhASEZGQkqqrq3NydubkBnnV3MKqoLA4MTk5NjLKz8eXjZMTKA70KlBKWFQUSAKNFhUXFxUTY+AXFJSUln706FFeQT4wDPgEBFzdPXp6+xqbmztqassKCgSEhYHqRMAIaBNQPxABGUAEANeVaRh/js2lAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/092fc154e6cf88e25629e111fb4bd042/8ac56/ESStarterAppJourney-03.webp 240w,
+/portfolio/static/092fc154e6cf88e25629e111fb4bd042/d3be9/ESStarterAppJourney-03.webp 480w,
+/portfolio/static/092fc154e6cf88e25629e111fb4bd042/e46b2/ESStarterAppJourney-03.webp 960w,
+/portfolio/static/092fc154e6cf88e25629e111fb4bd042/f992d/ESStarterAppJourney-03.webp 1440w,
+/portfolio/static/092fc154e6cf88e25629e111fb4bd042/882b9/ESStarterAppJourney-03.webp 1920w,
+/portfolio/static/092fc154e6cf88e25629e111fb4bd042/3ceda/ESStarterAppJourney-03.webp 3334w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/portfolio/static/092fc154e6cf88e25629e111fb4bd042/8ff5a/ESStarterAppJourney-03.png 240w,
+/portfolio/static/092fc154e6cf88e25629e111fb4bd042/e85cb/ESStarterAppJourney-03.png 480w,
+/portfolio/static/092fc154e6cf88e25629e111fb4bd042/d9199/ESStarterAppJourney-03.png 960w,
+/portfolio/static/092fc154e6cf88e25629e111fb4bd042/07a9c/ESStarterAppJourney-03.png 1440w,
+/portfolio/static/092fc154e6cf88e25629e111fb4bd042/29114/ESStarterAppJourney-03.png 1920w,
+/portfolio/static/092fc154e6cf88e25629e111fb4bd042/a82e6/ESStarterAppJourney-03.png 3334w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/portfolio/static/092fc154e6cf88e25629e111fb4bd042/d9199/ESStarterAppJourney-03.png&quot;
+          alt=&quot;We worked Github Screens and terminal actions through all of our mockups&quot;
+          title=&quot;We worked Github Screens and terminal actions through all of our mockups&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The new flow now:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;exposes the user to the kafka.properties file which they can edit to reuse the starter app with other instances of Kafka/Event Streams&lt;/li&gt;
+&lt;li&gt;allows the user to go to a friendly “releases” page on Github, and interact with more code via Github should they choose&lt;/li&gt;
+&lt;li&gt;Includes the whole Starter Application flow on one page, so that users know what to expect, and can jump ahead if they’ve done parts before&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/MRGZZ2Vt01w?controls=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt; &lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;Finall, the starter app page now directs users to inspect their topic inside the Event Streams UI - so that their final learning moment teaches them how they’ll interact with real topics and apps in productive use of Event Streams. &lt;/p&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/TmL8dyCOJug&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Design sprinting on Georeplication]]></title><description><![CDATA[Running a week-long design sprint using the Google Ventures format was really educational, and taught me a lot about facilitation. It also triggered a lot of questions about how we schedule our work items through the quarters and releases.]]></description><link>https://chloepoulterdesign.github.io/portfolio//posts/sprinting-on-georeplication</link><guid isPermaLink="false">https://chloepoulterdesign.github.io/portfolio//posts/sprinting-on-georeplication</guid><pubDate>Fri, 01 Nov 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;what-is-ibm-event-streams&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#what-is-ibm-event-streams&quot; aria-label=&quot;what is ibm event streams permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What is IBM Event Streams?&lt;/h2&gt;
 &lt;p&gt;IBM Event Streams is IBM’s Apache Kafka offering. Apache Kafka is an immensely popular messaging software which was released by the Apache foundation in 2011. The Event Streams team provide Kafka as software and as a service and add fully supported capabilities such as an award-winning UI, schema registry, REST API and connector library.&lt;/p&gt;
 &lt;h3 id=&quot;my-role&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#my-role&quot; aria-label=&quot;my role permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;My role&lt;/h3&gt;
 &lt;p&gt;User Experience Designer&lt;/p&gt;

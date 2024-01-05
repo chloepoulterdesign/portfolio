@@ -75,8 +75,19 @@ Unfortunately without a graphic designer to support the team, and not enough eng
 ![A light UI concept with pastel aurora accents](/media/ds-auroraconcept.png)
 
 Both concepts hinged on introducing a new purple brand colour to the platform - which the designer had identified didn't align with the user demographic. Struggling for direction, we shared 4 minified concepts with a panel of users and internal staff. 
-To evaluate their responses, I also led the team to codify our goals for the UI language we'd eventually adopt. We used words to describe this and chose the concept with the closest-aligning descriptions offered by users. 
+To evaluate their responses, I led the team to codify our goals for the design system. We used words to describe this and chose the concept with the closest-aligning descriptions offered by users in testing. 
 
 ![4 minified UI concepts we shared with users](/media/ds-4UIconcepts.png)
 
 ![A statement capturing the intent of our new design language](/media/ds-goals.png)
+
+Since we'd identified a year previously that the key to Aveni's adoption and commercial success was providing a place for users to act on AI findings, *Action-first* became our key principle. We interpreted this in a range of ways applicable to a design language and system:
+- emphasis (via colour, shape, motion, progressive disclosure, metaphor and content) is applied to the action the user should take in the particular interaction (as opposed to passive activities like data visualisation)
+- distraction is avoided by creating single-function experiences that intuitively support task completion
+- an opinionated range of features and configuration options keeps users out of the weeds and on the most efficient path
+
+The user feedback we recieved confirmed our assumptions:
+- Heavy use of the pink brand colour wasn't attractive
+- The 
+
+The first easy decision to codify of the design system, according to our new action-led principle, was rules over the use of screen real-estate to support action and provide contextual data to support action. 

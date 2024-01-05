@@ -74,20 +74,62 @@ Unfortunately without a graphic designer to support the team, and not enough eng
 ![A light UI concept with purple gradient accents](/media/ds-gradientconcept.png)
 ![A light UI concept with pastel aurora accents](/media/ds-auroraconcept.png)
 
-Both concepts hinged on introducing a new purple brand colour to the platform - which the designer had identified didn't align with the user demographic. Struggling for direction, we shared 4 minified concepts with a panel of users and internal staff. 
-To evaluate their responses, I led the team to codify our goals for the design system. We used words to describe this and chose the concept with the closest-aligning descriptions offered by users in testing. 
+Both concepts hinged on introducing a new purple brand colour to the platform - which the designer had identified didn't align with the user demographic. Struggling for direction, we shared 4 minified concepts with a panel of users and staff. 
 
 ![4 minified UI concepts we shared with users](/media/ds-4UIconcepts.png)
 
-![A statement capturing the intent of our new design language](/media/ds-goals.png)
+I asked the team to define the goals for the design team and use open questioning to identify the closest-aligned visual option:
 
-Since we'd identified a year previously that the key to Aveni's adoption and commercial success was providing a place for users to act on AI findings, *Action-first* became our key principle. We interpreted this in a range of ways applicable to a design language and system:
-- emphasis (via colour, shape, motion, progressive disclosure, metaphor and content) is applied to the action the user should take in the particular interaction (as opposed to passive activities like data visualisation)
-- distraction is avoided by creating single-function experiences that intuitively support task completion
-- an opinionated range of features and configuration options keeps users out of the weeds and on the most efficient path
+- Since we'd identified a year previously that the key to Aveni's adoption and commercial success was providing a place for users to act on AI findings, *Action-first* became our key principle. We interpreted this in a range of ways applicable to a design language and system:
+  - emphasis (via colour, shape, motion, progressive disclosure, metaphor and content) is applied to the action the user should take in the particular interaction (as opposed to passive activities like data visualisation)
+  - distraction is avoided by creating single-function experiences that intuitively support task completion
+  - an opinionated range of features and configuration options keeps users out of the weeds and on the most efficient path
 
-The user feedback we recieved confirmed our assumptions:
+The user feedback we received confirmed our assumptions:
 - Heavy use of the pink brand colour wasn't attractive
-- The 
+- Dark UIs, while appealing to many, alienated a good proportion of users
+- the cooler tonal palette allowed users to interpret the use of Red, Amber, Green more accurately
+- action-oriented UX employing few tiles rather than dense tables attracted users looking to "get things done"
+Although a small and unscientific study, we moved forwards with the tonal blue direction.
 
-The first easy decision to codify of the design system, according to our new action-led principle, was rules over the use of screen real-estate to support action and provide contextual data to support action. 
+## Developing the new system
+
+We split the system into a range of aspects:
+- layout & behaviour
+- components
+- macro-components
+- Typography foundations
+- colour foundations
+
+### layout & behaviour
+
+We identified that our action-oriented principles really aligned with the Assessor users of the platform. A good proportion of the market gains Aveni had made in the preceding year was due to the support for the user workflow we had begun to provide alongside our AI capabilities. 
+
+We created concepts of "centre stage" and "context" panes that would support users to focus on the task at hand and know where to go for additional context. This was a crucial pattern to establish as a call transcript was often a prominent (although not central) part of the interface.
+
+![An audit we created of the existing layout patterns](/media/ds-layouts1.png)
+
+Once we established the existing range of layout patterns we had live, we condensed these into a reduced set of patterns to conform to moving forwards. We managed to make the selection more responsive in doing so and created responsive Figma templates to use. 
+
+![We added 4 fully responsive templates to our figma library](/media/ds-layout2.png)
+
+### Components
+
+As there were a large number of components to build, we took the approach of designing and building in line with other projects. As time progressed, it became my role to police the unnecessary creation and change of components. I also directed the designers to use the figma features available to us (including variants, variables and styles) in the fullest way that was commercially sensible; including mentoring and finding learning materials for our junior designer.
+
+![I made sure that the designers documented components in an agile but thorough way.](/media/ds-components1.png)
+
+I made sure that component usage guidelines were documented and encouraged the use of Jira to prioritise and track the work involved in the component work from a design and development perspective. 
+
+### Macro-components
+
+I'd learnt from my time at IBM that real time savings and consistency are achieved when guidance and tools are available beyond individual UI components. 
+I led by example creating a responsive header component, with a variety of variants as needed to support different pages. 
+![Example of a macro-component - the page header](/media/ds-macrocomponents1.png)
+
+The team could then learn from this approach to build other combined components like navigations.
+
+![The navigation bar was a macro-component built by the team](/media/ds-macrocomponents2.png)
+
+### Typography foundations
+

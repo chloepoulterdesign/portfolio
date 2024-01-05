@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Chloe Poulter',
     photo: '/photo.jpg',
-    bio: 'Designer, leader & manager looking for tech-for-good opportunities to apply my ML/B2B SaaS Start-up and big-tech experience.',
+    bio: 'Strategic leader applying a user-focused lens to product, platform & experience strategy. Enjoys making complicated, data-driven and AI platforms simple.',
     contacts: {
       email: 'chloe@poulters.net',
       facebook: '',

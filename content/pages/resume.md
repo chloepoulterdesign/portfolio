@@ -7,18 +7,26 @@ socialImage: "/media/photo.jpg"
 ## My work
 
 ### Aveni
+Head of Product Strategy
+September 2023 - Present
+* Defined & launched product in response to ChatGPT from zero to 2 large enterprise customers in 1 year
+* Led partnership with top Financial advice CRM system
+* Orchestrated ways of working pivot to empower and engage multi-disciplinary delivery teams
+* Rationalised prioritisation across 2 products to quickly respond to new sources of data
+* Transitioned to data-led decision making at business & product-level
+
+### Aveni
 Principal designer  
-July 2021 - July 2023  
+July 2021 - September 2023  
 * Developed company & product vision inviting collaboration via design sprints & rolled-out to PM/roadmap, board of directors, consulting firm partners and Financial Advice house clients.
 * Tripled design capacity through hiring & designOps.
 * Facilitated a Human-in-the-Loop machine learning strategy via Design Sprint, secured funding & published a case study in the LNCS.
 * Commissioned design language & design system. Established roll-out plan, documentation & quality processes across design & development.
 * Launched a proposition in 4 weeks in response to new FCA Consumer Duty regulations, collaborated with C-suite execs at 3 eminent clients & 5 prospect orgs.
-* Responded to launch of ChatGPT via 2-month lean project aimed to secure further investment.
 * Provided intern & work experience provision, developed career progression framework and created performance management process. Ran design team recruitment.
 * Member of design manager group, informal coach and speaker on creativity & design at conferences
 
-### IBM Cloud Pak for Integratiom
+### IBM Cloud Pak for Integration
 User Experience designer  
 June 2020 - July 2021  
 * Pioneered design-led product strategy in partnership with PM team
